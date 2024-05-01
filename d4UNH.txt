@@ -1,0 +1,2621 @@
+Name	Job.Title	FTE	Annual.Base.Pay
+Dean, James Warren	President-UNH	1	504025.6
+Jones, Wayne E	Provost and VP Acad Aff-UNH	1	371416.5
+Gilson, Lucy Louise	Dean Paul College-UNH	1	370000
+Carpenter, Megan M	Dean Law-UNH	1	343070
+Dutton Cox, Deborah	VP Advancement-UNH	1	333366.6
+Spence, Harlan	Dir Institute for EOS	1	301996.6
+Decelle, Michael P	Dean UNHM and GSC	1	300846
+Gruden, Cynthia L	Dean CEPS-UNH	1	296623.6
+Davis, Anthony Swick	Dean COLSA-UNH	1	296623.6
+Dillon, Michele M	Dean COLA-UNH	1	296602.49
+Poirier, William Joseph	Chief Information Officer-UNH	1	291747.5
+Corazzini, Kirsten Nicol	Dean CHHS-UNH	1	290160
+McCord, Marian Gayle	Sr Vice Provost Research	1	290109.8
+O'Neil, Danielle	CMO and VP Marketing	1	275000
+Santos, Richard W	Head Football Coach	1	275000
+Houtenville, Andrew James	Center Dir CMDR	1	257123.05
+Rich, Allison	Dir Athletics-UNH	1	255000
+Davis, Nathan Michael	Head Mens Basketball Coach	1	250000
+Holmes, Kenneth Mitchell	Sr Vice Provost and Dean Stu	1	250000
+Neils, Kathleen A	Assoc VP Chief HR Officer	1	240803.1
+Souza, Michael J	Head Hockey Coach	1	240000
+LaValley, Kenneth J	Vice Provost Outreach and Eng	1	239103.96
+DeRego, Kimberly M	Vice Provost Enrollment Mgmt	1	231920
+Babbitt, Kimberly J	Assoc Dean COLSA-UNH	1	231503.64
+Fulton, Tara L	Dean Library-UNH	1	229550.78
+Moorhead, Cari A E	Dean Graduate School-UNH	1	226500.09
+Innis, Daniel E	Professor	1	223776.94
+Ziemer, Katherine Stewart	Sr Vice Provost Acad Affairs	1	223300
+Kinsey, Brad Lee	Assoc Dean CEPS-UNH	1	221100
+Parker, Victoria A	Assoc Dean	1	219554.24
+Foster, Diane L	Dir SMSOE	1	219110.89
+Griffin, Louise G	Assoc VP Research Admin	1	218400
+Echazu, Luciana	Assoc Dean	1	216398
+Mayer, Larry A	Professor	1	215075.03
+Dwyer, Joseph Richard	Professor	1	212209.77
+Scala, Kerry L	Dir Central Finance UNH	1	211120
+Godfrey, Marjorie	Research Professor	1	211120
+Divins, David L	Assoc Dir EOS	1	210929.99
+Eichenberger, Marc W	Assoc VP Innovation	1	208000
+Kelly, Thomas H	Chief Sustainability Officer	1	207921.53
+McCrone, Sharon M	Assoc Dean CEPS-UNH	1	204332.49
+Wallin, John C	Asst Provost Contract Admin	1	203941.92
+Stanley, Scott A	Dean Online Learning	1	203730.8
+Etebari, Ahmad	Professor	1	202998.49
+Hasseldine, David J	Professor	1	200589.54
+Bekkerman, Anton	Assoc Dean COLSA Dir NHAES-UNH	1	200564
+Plante, Catherine Craycraft	Assoc Professor	1	199390.38
+Gruen, Thomas W	Professor	1	199082.63
+Sohl, Jeffrey E	Professor	1	197607.55
+Thomas, William K	Professor	1	196408.39
+Herring, Bradley James	Professor	1	196323.48
+Swack, Michael E	Research Professor	1	195824.36
+Ballestero, Thomas P	Assoc Professor	1	195516.97
+Petty, Nadine Cecilia	Assoc VP Comm Equity Diversity	1	195291.2
+Nye-Lengerman, Kelly Melinda	Dir Institute On Disability	1	195286
+Janelle, William P	Assoc VP Facilities	1	194620.97
+Miksis-Olds, Jennifer L	Research Professor	1	192400
+Cook, Jenni Carbaugh	Assoc Dean COLA-UNH	1	192119.2
+Couse, Leslie J	Exec Dir Eng and Fac Dev	1	190841.92
+LaRoche, Dain P	Assoc Dean CHHS-UNH	1	190008
+Sharp, Erin H	Assoc Dean CHHS-UNH	1	190008
+Xu, Le	Professor	1	189717.47
+Hodder, Lucy C	Dir Health Law Programs	1	189522.42
+Hancock, Laura Gayle	Psychiatrist	0.75	188385
+Hadwin, Donald W	Professor	1	187441.18
+LaCourse, John R	Professor	1	186167.73
+Zercher, Charles Kent	Professor	1	185329.37
+Durda, John Ethan	Asst VP Center for DATA	1	185000
+Lane, Peter J	Professor	1	184820
+Purdom, Rebecca S	Assoc Dean UNHL	1	184730
+Wojchowski, Don M	Professor	1	184183.27
+Harvey, N Paul	Professor	1	183090.23
+Liu, Yixin	Professor	1	182469.42
+He, Zhaozhao	Assoc Professor	1	182034.33
+Cooper, Shane D	Assoc Dean UNHL	1	182000
+Li, Huimin	Assoc Professor	1	181917.59
+Beasley, Joan B	Research Professor	1	181911.6
+Ciccone, Stephen J	Assoc Professor	1	180575.16
+Ragland, Linda G	Assoc Professor	1	180564.55
+Chandran, Benjamin D G	Professor	1	180405.36
+Clyde, William C	Assoc Dean Grad School-UNH	1	179452
+Nudd, Thomas Raymond	Chief Information Sec Officer	1	179452
+Van Zee, Trudy L	Assoc Vice Provost CAPS	1	178037.5
+Ge, Liming	Professor	1	177126.24
+Milutinovich, Mark W	Exec Dir Research Development	1	176800
+Budd, Jordan C	Professor	1	176114.55
+McDonough, Susan Y	Managing Director Development	1	175609.62
+McNamara, William R	Exec Dir Hospitality Services	1	175149.37
+Schuckert, Markus Rolf	Professor	1	175099.32
+Gross, Erik Eugene	Sr Exec Dir Advancement Fin	1	174627.91
+Robinson, Shari A	Asst Vice Provost Student Life	1	174174
+Gass, Michael A	Professor	1	174027.51
+Collins, Michael Robin	Professor	1	173953.22
+Finkelhor, David	Professor	1	173836.49
+Druskat, Vanessa G U	Assoc Professor	1	173730.37
+Xie, Wenjuan	Assoc Professor	1	172425.09
+Miletkov, Mihail K	Assoc Professor	1	172297.74
+Bstieler, Ludwig A	Professor	1	172149.17
+Huijts, Sasja May	ERP Program Director	1	171600
+King, Brian J	Principal Research Proj Mgr	1	171600
+McCann, Michael A	Professor	1	170881.34
+Bartow, Ann M	Professor	1	170621.24
+Yalcinkaya, Goksel	Professor	1	170621.04
+Awasty, Nikhil	Asst Professor	1	170340
+Frank, Emma	Asst Professor	1	170340
+Talay, Melike Billur	Professor	1	170244.3
+Du, Shuili	Professor	1	170116.96
+Hoffman, Bryce	Asst VP Marketing	1	170000
+Irlbeck, Steven	Asst Professor	1	169793.28
+Ozer, Gorkem Turgut	Asst Professor	1	169793.28
+Petrova, Svetlana	Asst Professor	1	169793.28
+Song, Xiaotong	Asst Professor	1	169793.28
+Lyons, Anthony P	Research Professor	1	169729.92
+Malley, James P	Professor	1	169665.95
+McHugh, John P	Professor	1	169549.21
+Clemmons, James H	Professor	1	169262.68
+Hall, Stacey L	Asst Vice Provost Student Life	1	168896
+McCarty, Misty E	Assoc VP Advancement Services	1	168864.33
+Bartos, Radim	Professor	1	168742.7
+Chen, Jianhong	Assoc Professor	1	168530.45
+Vacca, Ryan G	Professor	1	168082.66
+Kistler, Lynn M	Professor	1	167257
+Cronin, Thomas P	Asst VP Public Affairs	1	166400
+Greabe, John M	Professor	1	165127.93
+Griffith, Jennifer A	Assoc Professor	1	164678.27
+Medros, Alicia J	Asst VP IT Teaching Technology	1	163618
+Dean, Paul H	Chief of Police	1	163364.66
+Littlefield Connor, Sarah V	Dir Finance Division UNH	1	163311.88
+Matta, David E	Dir Finance Division UNH	1	163311.88
+Wack, Amy M	Dir Finance Division UNH	1	163311.88
+Fucile, Samuel F	Dir Finance Division UNH	1	163301.48
+Staneva, Viktoriya B	Asst Professor	1	162927.28
+Earle, Andrew G	Assoc Professor	1	162815.84
+Lowrey, Jennifer W	Managing Director Development	1	162773.52
+Miller, Glen P	Professor	1	162195.04
+Messner, Richard A	Assoc Professor	1	161908.51
+Nash, Jonathan D	Asst Professor	1	161261.18
+Matheny, Jenna Nicole	Dir Technology Transfer	1	161200
+Epstein, Jennifer	Principal Research Proj Mgr	1	161200
+Smith, Charles W	Research Professor	1	160820.66
+Pfeiffer, Bruce E	Assoc Professor	1	160741.18
+Kukenberger, Michael R	Assoc Professor	1	160698.74
+Banker, Shawn C	Dir Instrumentation Center	1	160525.09
+Ruml, Wheeler	Professor	1	160497.11
+Lee, Honggi	Asst Professor	1	160242.41
+Dutta, Devkamal	Assoc Professor	1	160231.8
+Goldberg, Michael D	Professor	1	160199.97
+Neer, Stephen Harold	Registrar	1	160000
+Li, Jun	Assoc Professor	1	159977.11
+Campagna, Rachel L	Assoc Professor	1	159950.58
+Pescosolido, Anthony T	Assoc Professor	1	159804.11
+Entz, Susan	Assoc VP Alumni Relations	1	159701.72
+Elder, Dean R	Dir Animal Resource Office	1	159553.94
+Schwadron, Nathan A	Professor	1	159531.41
+Smith, Nicholas J	Professor	1	159213.05
+Cha, Yun Shil	Asst Professor	1	159181.2
+Hossain, Md Safayat	Asst Professor	1	159181.2
+Satornino, Cinthia Beccacece	Asst Professor	1	159181.2
+Berda, Erik B	Professor	1	159181.2
+Varki, Elizabeth	Assoc Professor	1	158639.99
+Gleason, Martha J	Exec Dir Human Resources	1	158600
+Brown, Bonnie L	Professor	1	158555.1
+Balmos, Steven E	Asst VP IT Portfolio Mgmt	1	158340
+Orcutt, John L	Professor	1	158188.46
+Robin, Donald A	Professor	1	158183.68
+Grinde, Roger B	Assoc Professor	1	157631.85
+Jacobs, Jennifer M	Professor	1	156835.94
+Bundock, James Joseph	Sr Research Project Engineer	1	156000
+Congalton, Russell G	Professor	1	155955.14
+Gwebu, Kholekile L	Assoc Professor	1	155647.38
+Wible, James R	Professor	1	155477.6
+Bauer, Christopher F	Professor	1	155360.86
+Wang, Jing	Assoc Professor	1	155329.02
+Paulson, Courtney	Asst Professor	1	155040
+Aktekin, Tevfik	Assoc Professor	1	155031.89
+Conway, Karen Smith	Professor	1	154819.64
+Elmslie, Bruce T	Professor	1	154575.57
+Cohn, Ellen S	Professor	1	154225.37
+Tsukrov, Igor I	Professor	1	153440.07
+Hughes Clarke, John E	Professor	1	153312.73
+Dors, Ivan G	Principal Research Proj Mgr	1	153062
+Ollinger, Scott V	Professor	1	152824.58
+Huang, Ju-Chin	Professor	1	152495.59
+Sparrow, Sophie M	Professor	1	152435.05
+Niman, Neil B	Assoc Professor	1	151752.75
+Short, Kevin M	Professor	1	151710.31
+Turner, Heather A	Professor	1	151614.79
+Kun, Andrew L	Professor	1	151296.43
+Frey, Serita D	Professor	1	151200.93
+Overton, Jacquelyn P	Managing Director Development	1	151000
+Preisendorfer, Erich H	Sr Dir IT CRM Services	1	151000
+Rau, David Barry	Principal Research Proj Mgr	1	150950.8
+Simpson, Julie F	Dir Research Integrity Serv	1	150834.68
+Fender, Stacy A	Managing Director Development	1	150800
+Graham, Karen J	Professor	1	150744.6
+Murphy, William J	Professor	1	150707.98
+LaBrecque, Alexander Charles	Asst Professor	1	150691.54
+Kim, Inchan	Asst Professor	1	150150.33
+Khanlari, Moein	Asst Professor	1	150054.82
+Hubbard, Marc J	Athletic Coach III	1	150000
+Seavey, Jennifer R	Exec Dir Shoals Marine Lab	1	150000
+Smith, Sonya S	Principal Research Proj Mgr	1	150000
+Scherr, Albert E	Professor	1	149906.88
+Erickson, Peter S	Professor	1	149089.12
+Pomerance, Justin Nathaniel	Asst Professor	1	148569.12
+Sias, Jo E	Professor	1	148569.12
+Galvin, Antoinette B	Research Professor	1	148554.59
+Sidor, Inga F	Clinical Assoc Professor	1	147784
+Charpentier, Michel H	Assoc Professor	1	147752
+Foxall, Thomas L	Professor	1	147444.25
+Liu, Ningyu	Professor	1	146892.42
+Cote, Richard H	Professor	1	145926.72
+Berube, Scott R	Principal Lecturer	1	145909.98
+Grandy, Andrew Stuart	Professor	1	145852.44
+Grube, Carrie A	Dir Recruiting and Onboarding	1	145600
+Baughman, Reagan A	Professor	1	145528.77
+Corbeil, Daniel Robert	Dir IT WAN LAN Telecom Oper	1	145419.46
+Bell, Erin S	Professor	1	145385.5
+Asbjornsen, Heidi	Professor	1	145173.26
+Thein, May-Win L	Professor	1	145061.83
+Glode, Charles Andrew	Dir Env Health and Safety	1	145000
+Zifla, Ermira	Asst Professor	1	144886.74
+Johnson, Elisa Kristine Poole	Research Professor	1	144560
+Lapak, Jeffrey R	Dir Interoperability Lab	1	144458.86
+Eke Rubini, Burcu	Asst Professor	1	144324.29
+Lamb, Ashley K C	Physician	0.75	144311.08
+Ormeci Matoglu, Melda	Asst Professor	1	144165.11
+Laird, Jo	Assoc Professor	1	143634.51
+Diamond, Christopher R	Physician	0.75	143551.04
+Wilson, Fiona S	Dir Sustainability Institute	1	143329.37
+Davis, Megan W	Exec Asst Pres Chief of Staff	1	142180
+Horigan, Mary C	Sr Exec Dir Advancement Rel	1	141904.31
+Niehof, Jonathan T	Principal Research Proj Mgr	1	141824.08
+Chen, Xiao	Asst Professor	1	141618.21
+Frost, Colin	Principal Research Proj Mgr	1	141450.4
+Cook, Raymond A	Assoc Professor	1	141225.57
+Hibschweiler, Rita A	Professor	1	141225.57
+Chini, Gregory P	Professor	1	141023.94
+Gupta, Nivedita Ranbir	Professor	1	140992.11
+Fredriksson, David Wayne	Professor	1	140760
+Ducey, Mark J	Professor	1	140716.19
+Blezard, David J	Sr Dir IT Business Sys Serv	1	140711.48
+Salyer, Lucy E	Professor	1	140631.29
+Chambers, Michael D	Research Assoc Professor	1	140483.2
+Yasenchock, David A	Dir IT Cybersec Governance	1	140400
+Gray, Joseph R	Dir IT Cybersec Oper and IAM	1	140400
+Weston, Kenneth	Exec Dir Campus Stewardship	1	140400
+Longe, Heather J	Sr Dir Research Computing	1	140394.8
+Calder, Brian R	Research Professor	1	140194.24
+Halstead, John M	Professor	1	140121.91
+MacFarlane, Lisa	Professor	1	140100.69
+White, Christopher M	Professor	1	140005.18
+Carson, Chandra	Exec Dir Marketing	1	140000
+Chapman, Erik W	Sea Grant Director	1	140000
+Legere, Jason S	Sr Research Scientist	1	139867
+Saglam, Aziz I	Sr Lecturer	1	139843.02
+Harkless, Gene E	Assoc Professor	1	139404.54
+Zago, Susan D	Professor	1	139360.31
+Blackman, Michael	Dean of Students	1	139339.2
+Kirsch, Nicholas J	Professor	1	138901.52
+Vandemark, Douglas C	Research Professor	1	138821.96
+Berglund, Per	Professor	1	138583.16
+Mayer, John D	Professor	1	138561.94
+Horvath, Jaroslav	Assoc Professor	1	138472.18
+Schmidt, Val E	Principal Research Proj Mgr	1	138320
+Connell, James J	Professor	1	138286.03
+Mouser, Paula J	Professor	1	138027.82
+Knezevic, Marko	Professor	1	137957.04
+Li, Gonghu	Professor	1	137957.04
+Roth, John Timothy	Professor	1	137957.04
+Gould, Eliga H	Professor	1	137670.53
+Zipkin, Susan W	Sponsored Programs Admin Dir	1	137597.46
+Vlahos, Dagmar E	Sr Process Engineer	1	137460.23
+Nikshych, Dmitri	Professor	1	137299.1
+Holtrop, Maurik W	Professor	1	137235.43
+Needle, David B	Clinical Assoc Professor	1	137228
+Bolton, Elisa E	Dir Psychological Services	1	137228
+Billings, Kim E	Exec Dir Communications	1	137120
+Neefus, Christopher D	Professor	1	136577.47
+Sweetman, Kimberly A	Assoc Dean Library-UNH	1	136225.18
+Payne, Tara E	VP Enrollment Management	1	136087.96
+Sosa, Victor G	Export Control Officer	1	135686.82
+Reardon, Lawrence C	Professor	1	135574.64
+Ford, Roger A	Professor	1	135434.91
+Rubini, Loris	Assoc Professor	1	135245.66
+Sabin, Mihaela C	Professor	1	135208.52
+VonGeorge, Tamara A	Assoc Dean GSC	1	135200
+Bukkapatnam, Nagaraj T	Dir Center Business Analytics	1	135200
+Kohler, Adam	Exec Dir Energy and Utilities	1	135200
+Lavoie, Lincoln Young	Interoperability Mgr IV	1	135200
+Gray, Elizabeth I	State Dir NH SBDC	1	135200
+Stevens, Elizabeth A	Dir Student Financial Services	1	135000
+Flaherty, Pamela	Exec Dir NCSS	1	135000
+Sulewski, Jennifer	Research Asst Professor	1	135000
+Loader, Amy B	Assoc Dir Extension	1	134768.45
+Brettschneider, Marla A	Professor	1	134444.45
+Noseworthy, Robert E	Interoperability Mgr III	1	134160
+Witt, Hilary A	Head Womens Ice Hockey Coach	1	133650
+Yu, Qiaoyan	Professor	1	133266.51
+Mohr, Robert D	Assoc Professor	1	133181.61
+Birch, Thomas D	Professor	1	133043.65
+Potter, Sharyn J	Professor	1	132651
+Harrington, Nancy E	Information Technologist V	1	132256.12
+Shattuck, Anne M	Dir IT IR and Assessment	1	131950
+Jensen, Karen M	Sponsored Programs Admin Dir	1	131950
+Lippmann, Thomas C	Professor	1	131791.43
+Johnson, Kenneth M	Professor	0.75	131762.25
+Tsang, Paul C	Professor	1	131589.8
+Slomba, Elizabeth A	Professor	1	131303.28
+Tisa, Louis S	Professor	1	131101.65
+Germaschewski, Yin	Assoc Professor	1	130735.53
+Conroy, Andrew B	Professor	1	130019.21
+Morley, Linnea A	Assoc Dir Animal Resource Off	1	130000
+Simenson, Kathleen K	Asst Vice Provost Enrollment	1	130000
+Simon, Matthew Thomas	Bus Dev and Comm Oper Dir UNHM	1	130000
+Board, Rhonda	Clinical Professor	1	130000
+Fouracre, Helen Fumi	Deputy Athletic Dir External	1	130000
+Schneider, Christopher B	Dir IT Infrastructure Services	1	130000
+Hodgdon, Amy M	Dir IT Portfolio and Proj Mgmt	1	130000
+Smith, Andrew E	Dir Survey Center-UNH	1	130000
+Prelli, Lawrence J	Professor	1	129976.77
+Lanier, Douglas M	Professor	1	129775.14
+Wosnik, Martin M	Assoc Professor	1	129435.55
+Newcombe, Michayla L	Interoperability Mgr IV	1	128960
+Emison, Patricia A	Professor	1	128851.88
+Ozabaci, Deniz	Asst Professor	1	128565.35
+Hinson, Edward K	Assoc Professor	1	128204.55
+Rushforth, Jay William	Research Project Mgr III	1	128000
+Heirtzler, David F	Sr Research Project Engineer	1	127920
+Bronner, Michelle I	Deputy Athletic Director	1	127448.92
+Davis, John Matthew	Assoc Professor	1	127419.25
+Vincenzi, Marco	Sr Lecturer	1	127078.74
+Miles, Brian C	Sr Research Project Engineer	1	126880
+Salisbury, Joseph E	Research Professor	1	126672
+Lachance, Christina L	Research Project Mgr III	1	126672
+McGrath, Robert J	Professor	1	126432.33
+Miles, Russell A	Sr Lecturer	1	126076.08
+Salvio, Paula M	Professor	1	125922.95
+Krasner, James N	Professor	1	125572.76
+Nardone, H Gay	Professor	1	125349.9
+Blanford, Thomas Edward	Research Asst Professor	1	125000
+Trubowitz, Rachel J	Professor	1	124936.03
+Weigle, Karen L	Assoc Dir NCSS	1	124800
+Sirota, Neil B	Asst Dean Law Career Serv-UNH	1	124800
+Thompson, Michael W	Dir Research Development	1	124800
+McKenzie, Kevin	Sr IT Project Mgr	1	124800
+Lee, Lina	Professor	1	124723.79
+McClintock, Dorrie S	Dir Conferences Cater and Conc	1	124580
+Covell, Darrel F	Extension Program Team Leader	1	124580
+Maddix, Michael K	Information Technologist IV	1	124580
+McLaughlin, Kevin W	Sr Lecturer	0.88	124424.7
+Amato-Wierda, Carmela C	Assoc Professor	1	124416.03
+Ryer, Jeanne	IHPP Focal Area Director	1	123760
+Sheehan, Timothy H	Interoperability Mgr III	1	123760
+Chiu, Monica Elizabeth	Professor	1	123514.01
+Ducharme, Kelly L	Dir IT Bus Apps Admin and Int	1	123505.2
+Garofalo, Piero	Professor	1	123482.17
+Basterra, Maria	Professor	1	123333.6
+Emanuel, Maria E	Assoc Dir UNH Innovation	1	123251.86
+Brooks, Courtney E Q	Clinical Assoc Professor	1	123189.4
+Chapman-Bosco, Laurie	Professor	1	122972.8
+Leichtman, Michelle D	Professor	1	122696.88
+Boysen, Andrew A	Professor	1	122611.98
+Stewart, Glenn B	Athletic Coach III	1	122586.83
+Farrugia, Charles J	Research Professor	1	122544.6
+Vashisth, Harish	Professor	1	122351.98
+Ashcroft, Michael P	Information Technologist IV	1	122312.37
+Sadykov, Dmitriy	Sr Information Technology Mgr	1	122280.7
+Aliouche, El-Hachemi	Assoc Professor	1	122187.5
+Wang, Jing	Visiting Asst Professor	1	122000
+Scovill, Bryan L	Sr Information Technology Mgr	1	121680
+Wilderman, John S	Analytical Instr Engineer IV	1	121657.9
+Varner, Ruth K	Professor	1	121635.67
+Licciardi, Joseph M	Professor	1	121614.44
+Planalp, Roy P	Assoc Professor	1	121603.83
+Bryce, Julia G	Professor	1	121434.04
+Monahan, Colleen F	Clinical Asst Professor	1	121394
+Guilmett, JoAnn Marie	Dir IT Help Desk Services	1	121394
+Westbrook, Anthony	Dir IT Research Data Mgmt	1	121394
+Kelley, Andrew Peter	Sr Information Technology Mgr	1	121394
+Kitterman, Scott T	Information Technologist IV	1	121140.66
+Kucharek, Harald A	Research Professor	1	120940.09
+Giraud, Kelly L	Assoc Professor	1	120924.66
+Pringle, James M	Professor	1	120860.99
+Feldman, David V	Assoc Professor	1	120733.64
+Li, Linyuan	Professor	1	120585.08
+McMahon, Gregory	Professor	1	120500.17
+Malloy, Joanne M	Research Assoc Professor	1	120486.18
+Stine, William W	Assoc Professor	1	120404.67
+Robertson, Robert A	Assoc Professor	1	120287.93
+Abelmann, Ruth E	Dir Residential Life	1	120169.5
+Lambert, Kristin E	Sr Information Technology Mgr	1	120000
+Glucksman, Susan Dziobek	Sr Process Engineer	1	120000
+Brockmann, Stephanie A	Asst Professor	1	119916.51
+Whistler, Cheryl A	Professor	1	119693.66
+Shen, Junhao	Professor	1	119672.43
+Ong, Jermyn Johannes Kong	Dir IT Desktop Services	1	119600
+Chabot, Craig L	Interoperability Mgr III	1	119600
+Matso, Kalle E	Research Project Mgr III	1	119600
+Lawrence, Enid	Sr IT Project Mgr	1	119600
+Bailey, Brigitte G	Professor	1	119513.25
+Carver, Randall J	Dir IT Data Center Operations	1	119282.8
+Sharpe, Sheree T	Assoc Professor	1	119232.04
+Keeler, Sharon J	Marketing Dir	1	119000
+Slifer, Karl J	Professor	1	118881.83
+Ramsay, Christopher Lee	Sr Info Sys Tech and Bus Ana	1	118860
+Zhang, Qi	Asst Professor	1	118855.3
+Kilcrease, Kelly	Assoc Professor	1	118802.24
+Collins, John J	Assoc Professor	1	118239.8
+Dube, Kathryn N	Interoperability Mgr III	1	118040
+Kilbride, Richard C	Sr Lecturer	1	117743.7
+Mizusawa, Diane D	Sr Lecturer	1	117705.96
+Bolker, Jessica A	Professor	1	117571.24
+Hogan, Kelsey E	Head Womens Basketball Coach	1	117500
+Kaye, David J	Professor	1	117401.45
+Perez, Dawna M	Exec Dir Student Success	1	117260
+Ghayoomi, Majid	Assoc Professor	1	117114.93
+Petters, Andrew	Dir Housing	1	117000
+French, Charles A	Extension Program Team Leader	1	117000
+Nisbett, Gerald Francis	Sr IT Project Mgr	1	117000
+Bonica, Mark J	Assoc Professor	1	116892.07
+Chutter, Mark W	Information Technologist IV	1	116886.59
+Petrik, Marek	Assoc Professor	1	116727.58
+Spear, Jean C M	Sr Information Technology Mgr	1	116548.8
+McGaughy, Jill A	Professor	1	116541.87
+Aytur, Semra A	Professor	1	116451.67
+Bachrach, David S	Professor	1	116446.37
+Xiao, Jingfeng	Research Professor	1	116369.34
+Kazura, Kerry	Assoc Professor	1	116361.46
+Lessard, Marc R	Research Professor	0.75	116243.4
+Johnson, Joel E	Professor	1	116159.84
+Jones, Stephen H	Research Assoc Professor	1	116147.67
+MacManes, Matthew D	Assoc Professor	1	116128
+Leach, Todd J	Clinical Professor	0.8	116116
+Randall, Michael James	Development Director	1	116116
+Conrad, Tamara A	Dir IT AT Apps Support	1	116116
+Cardarelli, Grace Ellen	Research Project Engineer IV	1	116116
+Dietz, Laura M	Assoc Professor	1	116080.25
+Oranburg, Seth C	Assoc Professor	1	116003
+Jones, J Scott	Dir Marketing Operations	1	115999.88
+Gullace, Nicoletta F	Assoc Professor	1	115990.04
+Smith, Robert Scott	Professor	1	115979.43
+Gildersleeve, A Michael	Principal Lecturer	1	115837.32
+Giuliano, Jeffrey J	Athletic Coach III	1	115778.21
+Dave, Eshan V	Assoc Professor	1	115703.52
+Wu, Kang	Assoc Professor	1	115703.52
+Palace, Michael W	Assoc Professor	1	115671.68
+McNamara, Paul F	Professor	1	115618.62
+Lyon, Mark E	Assoc Professor	1	115597.4
+Wright, Allan E	Sr Information Technology Mgr	1	115567.09
+Wharton-McDonald, Ruth M	Assoc Professor	1	115310.87
+Lugaz, Noe E	Research Professor	1	115261.02
+Dorsey, Kurk	Professor	1	115257.81
+Triplett, Timm A	Assoc Professor	1	115225.98
+Damiano, Gina M	Managing Director Advancement	1	115039.29
+Puccilli, Patricia A	Clinical Professor	1	115000
+Sharp, Dayle B	Clinical Professor	1	115000
+Mengers, Michael W	Exec Dir CALLI	1	115000
+Fournier, Deborah H	IHPP Focal Area Director	1	115000
+Tsavalas, John G	Assoc Professor	1	114812.1
+Germaschewski, Kai K	Assoc Professor	1	114790.88
+Hertz, Susan M	Assoc Professor	1	114759.04
+White, Marshall P	Dir IT Learn Collab Space Tech	1	114743.72
+Vorotnikov, Sergey A	Information Technologist IV	1	114606.49
+Baker, Thomas J	Information Technologist IV	1	114490.38
+Levine, Dovev L	Asst Dean Graduate School-UNH	1	114400
+Riley, Catherine Ames	Development Director	1	114400
+Tripodi, Sandra	Development Director	1	114400
+Samilo, Nykola	Finance Mgr	1	114400
+Reed, Matthew R	Information Technologist V	1	114400
+Munson, Kerry A	Interoperability Mgr III	1	114400
+Doyle, Marcy Sarah	Research Asst Professor	1	114400
+Hanscom, Bradley	Sr IT Project Mgr	1	114400
+Farrell, Breanna D	Dir IT Software Development	1	114004.8
+Seitz, Benjamin K	Information Technologist IV	1	114004.8
+Jeong, Kyung Jae	Assoc Professor	1	113973.74
+Craig, Patricia J	Assoc Professor	1	113920.68
+Masucci, Peter F	Principal Lecturer	1	113863.62
+Brito, Andre Fonseca De	Assoc Professor	1	113729.67
+Gudinas, Maria E	Development Director	1	113614.23
+Jones, Todd A	Research Project Engineer IV	1	113603.43
+Maciolek, Mark Lawler	Information Technologist IV	1	113519.22
+Chu, Feixia	Professor	1	113384.78
+Griswold, Lou Ann	Assoc Professor	1	113241.52
+Wollheim, Wilfred M	Assoc Professor	1	113209.68
+Grace-Bishop, Kathleen	Dir Health Educ and Promotion	1	113160
+Ramadanovic, Petar	Professor	1	113082.34
+Scala, Dante J	Professor	1	112774.58
+Bird, David O	Information Technologist V	1	112722.25
+Caoili, Andrea P	Project Director III	1	112600.85
+Silverman, Daniel S	Lecturer	1	112592.7
+Chu, Brian Wei-Kuo	Professor	1	112572.96
+McIntosh, Gary D	Information Technologist IV	1	112569.18
+Rzhanov, Yuri	Research Professor	1	112431.96
+Guerdat, Kate G	Extension Program Team Leader	1	112320
+Lauder, Tracey Anne	Asst Dean Library Admin-UNH	1	112300
+Buchbinder, Orly	Assoc Professor	1	112000
+Gibson, John F	Assoc Professor	1	112000
+Robinson, Sara A	Clinical Asst Professor	1	112000
+Proctor, Meghan	Human Resources Mgr	1	112000
+Yoon, Se Young	Assoc Professor	1	111989.29
+Johnson, Paul D	Information Technologist IV	1	111978.05
+Haskins, Robert C	Professor	1	111936.23
+Dorval, Robert S	Information Technologist IV	1	111830.26
+Hurton, Thomas E	Information Technologist IV	1	111576.92
+Halpern, Jeffrey M	Assoc Professor	1	111554.19
+Johnson, Jeremiah W	Assoc Professor	1	111538.28
+Van Gundy, Karen T	Professor	1	111532.97
+Schmitt, Ariel L	Information Technologist IV	1	111503.03
+Gibson, Brett M	Professor	1	111395.01
+McKane, James P	Asst Dir Extension	1	111280
+Brown, Christopher J	Interoperability Mgr III	1	111280
+Ouellette, Kyle J	Interoperability Mgr III	1	111280
+Dutra, Tina M	Sr Research Project Mgr	1	111280
+Lyon, Alynna J	Professor	1	111161.54
+Konzett, Delia C	Professor	1	110864.41
+Sharkey, Judith A	Professor	1	110853.8
+Mo, Weiwei	Assoc Professor	1	110652.17
+Bargardo, Tony F	Sr Information Technology Mgr	1	110567.15
+Smith, Richard G	Assoc Professor	1	110556.66
+Gregory, Thomas K	Research Project Mgr III	1	110500.21
+Lee, Steven P	Public Safety Captain	1	110310.2
+Narayan, Arvind	Principal Lecturer	1	110160
+Blais, Robert D	Information Technologist IV	1	110120.19
+Jonas, Michael	Assoc Professor	1	110079.12
+Dyer, Martin A	Information Technologist IV	1	110039.97
+Gamtso, Carolyn B	Assoc Professor	1	110004.83
+Belanger, Tara C	Development Director	1	110000.33
+Farrell, Erin Elizabeth	Assoc Dir PACS	1	110000
+Metcalfe, Riane	Development Director	1	110000
+Drahaus, Michael John	Sr Information Technology Mgr	1	110000
+Rodriguez, Jose Angel	Sr Marketing Dir	1	110000
+Senier, Siobhan	Professor	1	109898.71
+Gravink, Jill K	Clinical Asst Professor	1	109856.29
+Siggelakis, Susan J	Assoc Professor	1	109835.03
+Garcia-Rasilla, Carmen	Professor	1	109750.14
+Elbroch, Anna L	Clinical Asst Professor	1	109664.2
+Begum, Momotaz	Asst Professor	1	109569.73
+Hinton, Jill Ellis	Project Director III	1	109476.28
+Ashton-Savage, Audrey	Principal Lecturer	1	109260.36
+Collins, Karen E	Assoc Professor	1	109240.76
+Connelly, Kevin J	Development Director	1	109200
+Schwartz, Vy Kieu	Finance Mgr	1	109200
+Lewis-Walker, Jenee	Project Director III	1	109200
+Arthanat, Sajay	Professor	1	109089
+Borda, Jennifer L	Professor	1	109089
+Cashman, Holly R	Professor	1	109089
+Harrison-Buck, Eleanor	Professor	1	109089
+Howey, Meghan L	Professor	1	109089
+Kidwell, Mardi J	Professor	1	109089
+Malone, Mary Frances	Professor	1	109089
+Sokol, Jason C	Professor	1	109089
+Sowers, Jeannie	Professor	1	109089
+Tucker, Anita R	Professor	1	109089
+Weintraub, Scott E	Professor	1	109089
+Wells, Melissa	Professor	1	109089
+White, Barbara Prudhomme	Professor	1	109089
+Buckley, Louise A	Assoc Professor	1	109007.29
+Giordano, Jennifer A	Assoc Professor	1	109007.29
+Scholz, Robert C	Project Director III	1	109000
+Anderson, John A	Development Director	1	108832.36
+Early, Coua Lynn	IEHSS Director	1	108726.8
+Calhoun, Kelly S	Managing Director Advancement	1	108652.91
+Self, Carina E	Asst Dean Academic Engagement	1	108485.85
+Fralick, Eve	Project Director III	1	108462.9
+Lencki, Thomas John	Sr Process Engineer	1	108160
+Williams, Christine B	Asst VP Enrollment Operations	1	108030.11
+Lafleur, Julien A	Information Technologist IV	1	107998.44
+Sukhu, Anupama	Asst Professor	1	107839.96
+Song, Edward	Assoc Professor	1	107829.36
+Dowd, Christopher H	Research Project Mgr III	1	107806.18
+Meehan, William M	Assoc Dir Housing Fac and Oper	1	107702.87
+Overson, Catherine E	Dir Center for Teaching Excel	1	107671.2
+Rowe, Rebecca J	Assoc Professor	1	107553.44
+Hale, Iago L	Assoc Professor	1	107532.22
+Timmerman, Keith A	Human Resources Mgr	1	107460.08
+Collins, Philip	Information Technologist IV	1	107428.41
+Clark, Maryann	Sr Lecturer	1	107398.82
+Sparrow, John E	Assoc Professor	1	107362.42
+St. Lawrence, Robert F	Information Technologist IV	1	107196.18
+Tibbetts, Linda C	Grant and Contract Admin III	1	107122.29
+Kretchmar, Shawn S	Information Technology Mgr	1	107122.29
+Donovan, Richard J	Information Technologist IV	1	107000
+Lema, Kimberly Jeanne	Research Professor	1	107000
+Kim, Young Jo	Assoc Professor	1	106837.12
+Allain, Tanya-Sue	IEHSS Director	1	106615.6
+Gibson, Robert E	Project Director III	1	106594.49
+Winans, Daniel R	Sr Lecturer	1	106571.45
+Davis, Melissa L	Clinical Asst Professor	1	106543
+Young, Michael C	Extension Program Team Leader	1	106499.48
+Bell, Brent J	Assoc Professor	1	106471.01
+Wisniewski, Theodore T	Information Technology Mgr	1	106307.76
+Glode, Katherine S	Sr Marketing Dir	1	106229
+Sikora, Jill M	Assoc Dir Financial Aid	1	106161.69
+Scholder, Tara E	Dir Admissions	1	106130.02
+Cohn, Teresa	Assoc Professor	1	106120.8
+Moore, Gregg E	Assoc Professor	1	106120.8
+Kovach, Adrienne I	Assoc Professor	1	106099.59
+Masse, Blaise Taylor	Information Technology Mgr	1	106080
+Therrien, Kimberly L	Information Technology Mgr	1	106080
+Shetty, Sandhya	Assoc Professor	1	105844.89
+Dupere, Christine M	Finance Mgr	1	105560
+Harvey, Edmund P	Finance Mgr	1	105560
+Davie, Laura K	IHPP Focal Area Director	1	105560
+Hu-Morabito, Maya Leigh	Project Director III	1	105560
+Burdick, David M	Research Assoc Professor	1	105560
+Ridgeway, Theresa M	Sr Research Project Mgr	1	105560
+Klenotic, Jeffrey F	Assoc Professor	1	105431.02
+Stewart, Mary Q	Project Director III	1	105359.44
+Holland, Heather L	Assoc Dir Online-UNH	1	105181.5
+Mattingly, David M	Assoc Professor	1	105123.28
+Hobbs, Eric L	Information Technologist IV	1	105073.37
+Varga, Krisztina	Assoc Professor	1	105038.38
+Vasquez, Bernard J	Research Professor	1	105000.53
+Marr, Jacqueline Louise	Clinical Asst Professor	1	105000
+Bebbington, Thomas Patrick	Communication Dir	1	105000
+Nicolosi, Bianca	Sr Marketing Dir	1	105000
+Jarvis, Scott M	Information Technology Mgr	1	104929.54
+Caputo, Christine A	Assoc Professor	1	104757.16
+Glutting, Joan H	Clinical Professor	1	104684.32
+Jin, Hong	Assoc Professor	1	104677.57
+Seaman, Jayson O	Assoc Professor	1	104528.99
+McCabe, Patricia A	Human Resources Mgr	1	104419.95
+Nesbitt, Kimberly T	Assoc Professor	1	104295.54
+White, Huxley C	Research Scientist III	0.9	104076.88
+Hanlon, Michael J	Lecturer	1	104000.06
+Enright, Lisa Boege	Asst Dean Student Success	1	104000
+Gillick, Garrett K	Athletic Coach III	1	104000
+Michaels-Etter, Christine M	Finance Mgr	1	104000
+Handelman, Matthew L	Information Technologist IV	1	104000
+Keirns, Tracy A	Project Director III	1	104000
+Ellis, Stanley W	Research Project Engineer IV	1	104000
+Costa, Grace M	Sr Information Technology Mgr	1	104000
+Keesee, Amy M	Assoc Professor	1	103998.39
+Sideman, Rebecca G	Full Ext State Spec Professor	1	103955.49
+Miller, Lisa C	Assoc Professor	1	103945.33
+Plachetzki, David C	Assoc Professor	1	103945.33
+Wilner, Seth	Full Extension Field Spec	1	103797.15
+Xu, Dongpeng	Asst Professor	1	103276.77
+Brown, Benjamin Cliff	Assoc Professor	1	103128.21
+Plumlee, Matthew D	Sr Lecturer	1	102996.54
+Carpenter, Kevan B	CEPS Tech Serv Center Dir	1	102960
+Chisholm, Laura Hamilton Spink	Development Director	1	102921
+Christensen, Melissa Kay	Dir Institutional Effect	1	102921
+Weaver, Carol Elaine	Research Project Engineer IV	1	102921
+Tenczar, Anthony	Assoc Professor	1	102852.29
+Lavallee, David R	Information Technologist IV	1	102798.76
+Mason, Michael F	Dir Facilities Asset Mgmt	1	102588.72
+Mizusawa, Leroy R	Sr Lecturer	0.88	102583.44
+McIlroy, James M	Sr Lecturer	1	102563.04
+Oslin, Katherine S	Annual Giving Dir	1	102533.6
+Lazdowski, Yvette J	Assoc Professor	1	102496.79
+Yi, Nan	Asst Professor	1	102438.42
+Exline, Eleta C	Assoc Professor	1	102342.91
+Mulligan, Shelley E	Assoc Professor	1	102120.06
+Klein, Ann Elizabeth	Project Director III	1	102097.63
+Edie-Michell, Cain	Asst Professor	1	102000
+Johnecheck, Wendy Anne	Assoc State Spec Professor	1	101920
+Garnham, Josina	Exec Dir Browne Center	1	101920
+Hopkins, Lori J	Assoc Professor	1	101897.2
+Charapko, Aleksey	Asst Professor	1	101875.97
+Nolte, Kerry L	Assoc Professor	1	101669.05
+Cook, Summer B	Assoc Professor	1	101536.39
+Jennison, Kimberly M	Human Resources Mgr	1	101453.72
+Thomas, Janet M	Project Director III	1	101400
+Elsawa, Sherine F	Assoc Professor	1	101292.31
+Schwartz, Ariel	Research Asst Professor	0.92	101200
+Aydelott, Kathrine C	Assoc Professor	1	101133.13
+Afolayan, Funso S	Assoc Professor	1	101122.52
+Sample, Ruth J	Assoc Professor	1	101005.79
+LeBlanc, Christopher D	Assoc Professor	1	100995.17
+Scapicchio, Tamara J	Dir Advising	1	100880
+Kaletsky, Louis Kenneth	Information Technologist IV	1	100880
+Nelson, Justin	Interoperability Mgr II	1	100880
+Snay, Carter R	Interoperability Mgr II	1	100880
+Hale, Stephen R	Project Director III	1	100880
+Prusevich, Alexander A	Research Scientist III	1	100862.58
+Ha, Jinjin	Asst Professor	1	100814.76
+Laxague, Nathan	Asst Professor	1	100814.76
+Mandel, Tracy Lynn	Asst Professor	1	100814.76
+Mu, Bingxian	Asst Professor	1	100814.76
+Lightbody, Anne F	Assoc Professor	1	100804.16
+Graham, Suzanne E	Assoc Professor	1	100729.87
+Came, Rosemarie E	Assoc Professor	1	100634.37
+Wijeyesinghe, Victoria M	Human Resources Mgr	1	100556.46
+McCrone, Martin Allen	Res Env Health and Safety Mgr	1	100514.23
+LaForce, Anne M	Project Director III	1	100453.54
+Peebles, Catherine M	Dir University Honors Program	1	100324.22
+Tebo Davis, Mary P	Full Extension Field Spec	1	100282
+Mouikis, Christoforos	Research Assoc Professor	1	100282
+Zang, Jiadong	Assoc Professor	1	100199.27
+Garnas, Jeffrey R	Assoc Professor	1	100156.82
+Paglia, Alison Kolbe	Assoc Professor	1	100156.82
+Paterson, Susanne F	Assoc Professor	1	100156.82
+Hollen, Shawna M	Assoc Professor	1	100130.29
+Allen, James Byers	Athletic Coach III	1	1e+05
+Kirkpatrick, Margaret Anne	Dir Academic Affairs	1	1e+05
+Liu, Bo	Full Ext State Specialist	1	1e+05
+Mathur, Renuka	Full Ext State Specialist	1	1e+05
+Lingeman, Samuel T	Information Technologist IV	1	1e+05
+Schaier, Sarah C	Marketing Dir	1	1e+05
+Dube, Michael Jason	Visiting Asst Professor	1	1e+05
+Jefferson, Julian	Visiting Asst Professor	1	1e+05
+Simard, Kara M	Visiting Asst Professor	1	1e+05
+Fairbarn, Kenneth G	Research Project Engineer IV	1	99996
+Marceau, Jeremiah E	Information Technologist IV	1	99923.1
+Heaton, Tobias Zachary	Information Technologist IV	1	99907.96
+Houle, James J	Research Asst Professor	1	99859.76
+Jago, Barbara J	Assoc Professor	1	99573.16
+Brucker, Debra L	Research Assoc Professor	0.75	99524.61
+Pothier, Wendy G	Assoc Professor	1	99490.8
+Hartlen, Ronald R	Information Technologist IV	1	99490.3
+Wilson, Jody K D	Research Scientist III	1	99490.3
+Gengarelly, Lara M	Full Ext State Spec Professor	1	99463.26
+Rodriguez, Julia E	Assoc Professor	1	99382.13
+Flynn, John J	Information Technologist IV	1	99300.29
+Frost, Kevin Patrick	Clinical Asst Professor	1	99260.12
+McGee, Melissa-Anne L	Asst Dir Research Integrity	1	99226.4
+Beller-McKenna, Daniel	Assoc Professor	1	99138.06
+Justice, David G	Project Director III	1	99100.26
+Cournoyer, Brian K	Res Env Health and Safety Mgr	1	99000
+Del Greco, Marcus	Information Technologist IV	1	98982.14
+Cavicchi, Jon R	Principal Lecturer	1	98927.28
+Tarr, Matthew D	Full Ext State Spec Professor	1	98846.38
+Dame, Erin A	Information Technologist IV	1	98800.73
+Couture, Spencer M	Interoperability Mgr II	1	98800
+Dukeman, Hannah J	Interoperability Mgr II	1	98800
+Patton, Benjamin	Interoperability Mgr II	1	98800
+Charette, David B	Dir Campus Recreation	1	98740.82
+Cavicchi, Trenton J	Information Technologist IV	1	98658.7
+Behan, Marc W	Information Technologist IV	1	98599.9
+Wigley, Rochelle A	Project Director III	1	98582.48
+Foucart, Francois V O	Assoc Professor	1	98533.17
+Theimer, Sarah H	Asst Professor	1	98395.21
+Prescod-Weinstein, Chanda R S	Asst Professor	1	98331.54
+Plante, Amy Solomon	Clinical Professor	1	98280
+Sheriff, Robin E	Assoc Professor	1	98267.87
+Hackett, Robin Michelle	Assoc Professor	1	98193.59
+Ranfos, Lisa M	Clinical Assoc Professor	1	98185.88
+Lavoie, Adam J	Sr Information Technology Mgr	1	98170.8
+Adler, Daniela D	Dir CFAR	1	98150
+Westover, Laurie Fitzgerald	Admin Services Mgr	1	98000
+Weber, Wade Michael	Full Ext State Specialist	1	98000
+Ames, Raina S	Assoc Professor	1	97949.5
+Carton, Samuel	Asst Professor	1	97920
+Nedyalkov, Ivaylo P	Sr Lecturer	1	97920
+Root, Kelly J	Lecturer	1	97916.53
+Tavares, Theodore S	Assoc Professor	1	97875.23
+Wolper, Ethel S	Assoc Professor	1	97822.17
+Haley, Lauren K	Lecturer	1	97801.68
+Aikens, Melissa L	Assoc Professor	1	97785.02
+Michelsen, Jessica C	Information Technologist IV	1	97738
+Li, Linqing	Asst Professor	1	97631.14
+Cho, Eun Kyeong	Assoc Professor	1	97535.64
+Hazzard, Scott A	Information Technologist IV	1	97535
+Hamilton, Ann M B	Full Extension Field Spec	1	97463.55
+Payne, Thomas L	Assoc Professor	1	97312.78
+Dijkstra, Semme J	Clinical Professor	1	97273.54
+Moore, Michael Robert	Research Scientist III	1	97240
+Gyory, Joanna	Lecturer	1	97189.68
+Cannon, Jason M	Assoc State Dir NH SBDC	1	97169.28
+Barker, Heidi W	Full Extension Field Spec	1	97125.81
+Gianforte, John	Assoc State Specialist	1	97115.2
+Dulude, Anna B	Human Resources Mgr	1	97115.2
+Embree, Sean P	Information Technology Mgr	1	97115.2
+Grosso, Elizabeth A	Project Director III	1	97115.2
+Shannon, Patrick	Assoc Professor	1	97100.54
+Clark, Kimberly E	Dir Career Services	1	97094.09
+Shay, David M	Asst Dir Marine Fac and Oper	1	97062.42
+Van Zandt, Cynthia J	Assoc Professor	1	97058.09
+Siler, Kate H	Project Director II	1	96914.64
+Desjardins, Michael Roger	Information Technologist IV	1	96817.95
+Scannell, David E	Information Technologist IV	1	96809.08
+Harvey, Elizabeth Lucas	Assoc Professor	1	96734.43
+Donahue, Jennifer L	Business Director	1	96720
+Glavin, David Michael	Information Technologist IV	1	96720
+Bates, Felicia Lea	Project Director III	1	96720
+Garcia, Kristal	Project Director III	1	96720
+Eule, Anne	Sr Assoc Dir Financial Aid	1	96720
+Rouleau, Richard A	Facilities Contract Mgr	1	96656.44
+Chavajay, Juan Pablo	Assoc Professor	1	96516.87
+Buck, David G	Research Project Mgr III	0.92	96344.61
+Scura, Alyse Marie	Project Director III	1	96200
+Dyer, James Matthew	Information Technologist IV	1	96059.6
+O'Rourke, John F	Information Technologist III	1	96049.04
+Elwy, Melina-Sarah A	Assoc Registrar-UNH	1	96000
+Smith, Elizabeth E	Assoc Registrar-UNH	1	96000
+Colleran, Cathleen C	Clinical Assoc Professor	1	96000
+Kallmerten, Pamela S	Clinical Assoc Professor	1	96000
+Hatfield, Timothy R	Information Technology Mgr	1	96000
+Myer, Karrie A	Res Env Health and Safety Mgr	1	96000
+Bower, Jonathan S	Research Project Engineer IV	1	96000
+Jones, Lisa M	Research Assoc Professor	1	95985.71
+Cariens, Benjamin S	Assoc Professor	1	95954.43
+Drever, Christopher T	Information Technology Mgr	1	95766.93
+Barbour, Rebecca Briggs	Dir Paul Graduate Programs	1	95742.92
+Carter, Vernon B	Assoc Professor	1	95731.58
+Talbot, Nathan A	Dir Advising	1	95680
+Gilson, Paul William	Sr Lecturer	0.75	95625
+Bousquet, Rene R	Information Technologist IV	1	95615.52
+Fast, Andrew J D	Full Ext State Spec Professor	1	95595.19
+Bradt, Shane R	Full Ext State Spec Professor	1	95574.02
+Kowalski, Stanley P	Sr Lecturer	1	95503
+Kellam, Charles David	Communication Dir	1	95500.13
+Jamison, Tyler B	Assoc Professor	1	95466.28
+McCann, Debora L	Trio Director	1	95384.02
+Dijkstra, Jennifer A	Research Assoc Professor	1	95346.32
+Caron, Shawn C	Information Technologist IV	1	95309.59
+Arsenault, Roland J	Information Technologist IV	1	95273.18
+Boudreau, Marc A	Asst Professor	1	95232.81
+Sabol, Julie J	Grant and Contract Admin III	1	95225.68
+Starkey, Shari L	Information Technology Mgr	1	95215.12
+Connelly, Vincent J	Assoc Professor	1	95211.59
+Bourgeault, Jennifer L	Project Director III	1	95162.34
+Geuther, Mark E	Dir Facilities Project Mgmt	1	95151.85
+Raghunathan, Sangita	Information Technologist IV	1	95139.12
+Stone, Patricia M	Analytical Instr Scientist IV	0.8	95088
+Glauber, Rebecca K	Assoc Professor	1	95063.03
+Holt-Shannon, E Michele	Project Director III	1	95025.11
+Holcombe, Julee Ann	Assoc Professor	1	95020.57
+McKinsey, Martin S	Assoc Professor	1	95020.57
+Egbert, Elisabeth Ann	Human Resources Mgr	1	95004
+Weeks, Francis M	Public Safety Captain	1	95004
+Cray, Beverly E C	Transportation Services Mgr	1	95004
+Ayotte, Lindsey E B	Athletic Coach III	1	95000
+Giles, Ruth Marie	Dir Prospect Research and Mgmt	1	95000
+Rodriguez, Celinett	Grant and Contract Admin III	1	95000
+Lord, Nicholas K	Information Technologist IV	1	95000
+Enus, Marilee	Project Director III	1	95000
+Timberlake, Edward L	Visiting Asst Professor	1	95000
+Sundar, Vidyalakshmi	Assoc Professor	1	94988.74
+Condon, Patricia B	Asst Professor	1	94988.74
+Royer, Andrew M	Information Technologist IV	1	94930.11
+Safford, Thomas G	Assoc Professor	1	94702.21
+Benson, Alexis Daniel	Dir Community Standards-UNH	1	94640
+Schafermeyer, Abram R	Dir OISS	1	94640
+Flanagan, Angela S	Information Technologist IV	1	94634
+Greene, Gregory G	Information Technologist IV	1	94626.63
+Fleury, Timothy J	Full Extension Field Spec	1	94592.32
+Chen, Xuanmao	Assoc Professor	1	94458.14
+Chen, Diliang	Asst Professor	1	94447.52
+Eftekhar Azam, Saeed	Asst Professor	1	94447.52
+Han, Fei	Asst Professor	1	94447.52
+Kalmogo, Philippe	Asst Professor	1	94447.52
+Sullivan, Dean Mitchell	Asst Professor	1	94447.52
+Mahmud, MD Shaad	Asst Professor	1	94415.68
+Dorsey, Marion Girard	Assoc Professor	1	94150.38
+Hoover, Barbara R	Information Technologist IV	1	93948.4
+Mullholand, Bryan D	Information Technologist IV	1	93948.4
+LaHaie, Marissa	Nurse Practitioner	1	93948.4
+Carpenter, Kristin R	Assoc Dir Residential Life	1	93640
+Sonnenmeier, Rae M	Clinical Assoc Professor	1	93639.1
+Kirylych, Stephanie M	Dir Advising	1	93610.4
+Rand, Megan J	Managing Director Advancement	1	93600.05
+Carstens, Mary Beth	Advising and Acad Success Dir	1	93600
+Cousens, Katie L	Advising and Acad Success Dir	1	93600
+Sousa, Kevin David	Advising and Acad Success Dir	1	93600
+Marsh, Margaret Ann	Development Director	1	93600
+Horne, Nicole M	Dir Advising	1	93600
+Sophinos, Amanda T	Dir CaPS	1	93600
+Lathrop, Elizabeth	Human Resources Specialist II	1	93600
+Costello, Amy Willard	IHPP Focal Area Director	0.8	93600
+Chan, Haiying Y	Information Technologist IV	1	93600
+Kinney, Juliet W	Information Technologist IV	1	93600
+Manseau, Philip D	Information Technologist IV	1	93600
+Soto, Jonathan P	Information Technologist IV	1	93600
+Vogel, Kathryn Ann	Intellectual Property Mgr	1	93600
+Fessenden, William F	Information Technologist IV	1	93526.16
+Ashcraft, Catherine M	Asst Professor	1	93524.27
+Goodspeed, Craig S	Information Technologist IV	1	93501.2
+Sullivan, Mary Jane	Clinical Assoc Professor	1	93486.28
+Ortmeier, Christina M	Assoc Professor	1	93471.21
+McLarnon, Christopher R	Sr Lecturer	1	93409.67
+Mancus, Gibran	Asst Professor	1	93386.31
+O'Brien, Jennifer E	Asst Professor	1	93386.31
+Prescott, Sarah Grace	Assoc Professor	1	93312.03
+Williams, Ann J	Assoc Professor	1	93248.35
+Lepler, Jessica M	Assoc Professor	1	93067.95
+Dion, Maeve L	Asst Professor	1	93057.34
+Stadler, Justine C	Project Director III	1	93051.14
+Carson, Jessica A	Research Asst Professor	1	93010.09
+O'Brien, Alyssa J	Clinical Assoc Professor	1	92994
+Nickerson, Laura M	Project Director III	1	92924.47
+Pillet-Shore, Danielle M	Assoc Professor	1	92919.38
+Gopal, Kiruthika	Information Technologist IV	1	92892.8
+Ditulio, Antonio	Information Technologist IV	1	92882.24
+Gunlogson, Elizabeth M	Assoc Professor	1	92685.92
+Scribner, Wendy Holmes	Full Extension Field Spec	1	92671.12
+Lehmann, Jennifer	Institutional Research Spec	1	92597.23
+Dana, Jonathan H	Head Athletic Trainer	1	92586.68
+Bliaya, Cheshet K	Dir Admissions	1	92560
+Abare, James L	Sr Electrical Engineer	1	92560
+Long, Elena A	Asst Professor	1	92410.01
+DiBurro, Andrea L	Information Technologist IV	0.85	92407.22
+Beemer, Cristy A	Assoc Professor	1	92399.39
+Kim, Bo Rin	Assoc Professor	1	92250.82
+Burie, Karen A	Information Technologist IV	1	92248
+Palmer, Christopher W	Information Technologist IV	1	92225.6
+Towle, Scott R	Mgr Cost Ana and Fixed Assets	1	92164.44
+Ernakovich, Jessica G	Assoc Professor	1	92033.27
+Kislat, Fabian	Asst Professor	1	92027.96
+Doyle, Mary L	Project Director II	1	92016.65
+Dobe, Dianna M	Information Technologist IV	1	92000
+Persson, Kimberly T	Project Director III	1	92000
+Shuster, Jason	Research Scientist III	1	92000
+Pare, Michael J	Information Technologist IV	1	91982.87
+Young, Mary L	Project Mgr	1	91974.43
+Boylan, Amy	Assoc Professor	1	91847.56
+Beecher, Melissa A	Dir Memorial Union Building	1	91837.2
+Lyons, Kevin	Information Technologist IV	1	91837.2
+Smith, Michael James	Research Project Engineer III	1	91837.2
+Lascelle, Heather L	Hospitality General Mgr	1	91830.66
+Reynolds, David	Lecturer	1	91800
+Zaimes, Peter J	Lecturer	1	91773.48
+Townley, Mark A	Analytical Instr Scientist IV	1	91720.72
+Cherim, Nancy A	Analytical Instr Scientist IV	1	91710.53
+Latimer, Leslie A	Pharmacist II	0.75	91570.14
+Fairchild, Jennifer R	Information Technologist IV	1	91536.9
+Ripley, Scott A	Communication Dir	1	91520
+Kroll, Michele	Full Extension Field Spec	1	91520
+Hussar, Lauren Stephanie	Sr Psychologist	0.87	91520
+Haines, Thomas W	Assoc Professor	1	91497.36
+Martin, Mary E	Research Asst Professor	1	91488.85
+Li, Anyin	Asst Professor	1	91454.92
+Durocher, Kristina L	Art Museum Director	1	91446.63
+Peshkova, Svetlana A	Assoc Professor	1	91380.63
+Potier, Beth H	Communication Dir	1	91341.07
+Kothari, Mrityunjay	Asst Professor	1	91290
+Campbell, William J	Information Technologist IV	1	91232.66
+Carrier, Robert	Information Technologist IV	0.75	91129.95
+Lauer, Josh C	Assoc Professor	1	91125.94
+Wilcox, John M	Clinical Assoc Professor	1	91024.39
+Morrissey, Michelle M	Communication Dir	1	91000
+Lee, Noele P	Lecturer	1	90917.7
+Brewer, Jennifer F	Assoc Professor	1	90903.09
+Stampone, Mary D	Assoc Professor	1	90903.09
+Bresnahan, Megan M	Asst Professor	1	90899.75
+Adams, Jonathan F	Info Sys Tech and Bus Analyst	1	90834.38
+Chalifoux, Susan D	Project Mgr	1	90781.6
+Doherty, Pamela B	Project Mgr	1	90781.6
+Paprocki, Julie	Asst Professor	1	90780
+Souney, Joseph M	Research Project Mgr III	1	90605.32
+Eberhardt, Alyson L	Assoc State Spec Professor	1	90559.92
+Meijer, Leonie H	Dir Education Abroad	1	90500
+Trela, Thomas E	College Facilities Coord	1	90480
+Simpson, Brian	Information Technology Mgr	1	90480
+Shroff, Maithili Rajiv	Intellectual Property Mgr	1	90480
+Bryant, Heather D	Full Extension Field Spec	1	90475.53
+Woods, Leah K	Assoc Professor	1	90404.32
+Panicci, Julienne M	Project Director III	1	90369.92
+Bahalkeh, Esmaeil	Asst Professor	1	90202.68
+Plante, Donald J	Asst Professor	1	90202.68
+Cragin, Faye E	Assoc State Specialist	1	90179.91
+Ramage, Amy E	Asst Professor	1	90128.41
+Mellyn, Elizabeth W	Assoc Professor	1	90085.96
+Ramsey, Philip J	Principal Lecturer	0.88	90032.34
+Bigornia, Sherman J	Asst Professor	1	90001.06
+Balducci, Robin A	Athletic Coach II	1	90000
+Schwartz, Cory L	Athletic Coach II	1	90000
+Papineau, Amy C	Full Extension Field Spec	1	90000
+Lynch, Lauren Elizabeth	Information Technology Mgr	1	90000
+Kenoyer, Belle Vukovich	Project Director III	1	90000
+Leach, Lisa	Project Director III	1	90000
+Vargason, Hannah	Project Director III	1	90000
+Karas, Christina	Res Env Health and Safety Mgr	1	90000
+Hall, Nathan John	Research Project Engineer III	1	90000
+O'Shea, Meredith Kate Holtan	Research Project Mgr III	1	90000
+Stevens, Andrew Harlan	Research Scientist II	1	90000
+Begis, Maggie D	Clinical Assoc Professor	1	89968.79
+Cagle, Suzanne	Full Extension Field Spec	1	89894.9
+Chen, Szu-Feng	Assoc Professor	1	89788.82
+Cahoon, Luke G	Grant and Contract Admin III	1	89760
+Hatch, Denton	Lecturer	0.88	89760
+Scigliano, Lisa M	Grant and Contract Admin III	1	89726
+Taylor-Hillebrand, Jennifer	Grant and Contract Admin III	1	89726
+Corcoran, Nadja	Planned Giving Officer II	1	89726
+Schreiber, Ellen	Project Director III	1	89726
+O'Sullivan, Terrence M	Assoc Professor	1	89672.08
+Negron-Gonzales, Melinda	Assoc Professor	1	89640.25
+Proulx, Michelline D	Dir Center for Family Business	1	89620.44
+Weingart, David B	Information Technologist III	1	89535.99
+Kimball, Scott E	Information Technology Mgr	1	89440
+Brown, Blake A	Interoperability Mgr I	1	89440
+Ray, Robbin M	Communication Dir	1	89180
+Kouame, Julien B	Assoc State Specialist	1	89177.09
+Gladders, Glenn W	Full Extension Field Spec	1	89145.42
+Ainslie, Marcy M	Asst Professor	1	89141.48
+Stailey, Mark A	Dir Browne Center Operations	1	89113.75
+Hausner, Alejandro	Sr Lecturer	0.88	89110.26
+Sweet, Todd M	Executive Chef	1	88923.74
+Maki, Amy L	Communication Dir	1	88920
+Roy, Bethany C	IT Project Mgr	1	88920
+Gregoire, Michelle E	Project Director II	1	88913.19
+Shubov, Marianna A	Professor	0.5	88881.49
+Johansmeyer, Mackenzie L	Clinic Mgr	0.8	88809.74
+Jorgensen, Nathan A	Assoc Professor	1	88759.45
+Smith, Wayne J	Principal Lecturer	0.88	88671.66
+Masigwa, Dennis	Information Technologist IV	1	88602
+Bruce, Analena Beate	Asst Professor	1	88540
+Lowell, Kim E	Research Scientist III	1	88480.39
+Thelemarck, Claes J	Full Extension Field Spec	1	88459.28
+Santiesteban, Sandra Nathaly	Asst Professor	1	88454.4
+Hartman, Cindy L	Assoc Professor	1	88451.69
+Cardoso, Cristy L	Information Technologist IV	1	88406.5
+Chaffee, Reta Frances	Information Technology Mgr	1	88406.5
+Buzzell, Daniel C	Annual Giving Dir	1	88400
+McQuaid, Amanda Lee	Assoc State Spec Professor	1	88400
+Testa, Keith E	Communication Dir	1	88400
+Shoukimas, Christine	Human Resources Mgr	1	88400
+Browne, Matthew	Human Resources Specialist II	1	88400
+Edgerly, Brandon T	Human Resources Specialist II	1	88400
+Racca, Jamie L	Human Resources Specialist II	1	88400
+Randall, Elisha L	Human Resources Specialist II	1	88400
+Achuthan Thampi, Parvathy	Information Technologist IV	1	88400
+Barnes, Richard Wayne	Information Technologist IV	1	88400
+Brulotte, Jaden P	Information Technologist IV	1	88400
+Pycko, Christopher J	Information Technologist IV	1	88400
+Quigley, Joshua S	Information Technologist IV	1	88400
+Reed, Heather	Information Technologist IV	1	88400
+Wilson, Stephen R	Information Technologist IV	1	88400
+Driscoll, Stacy A	Project Director III	1	88400
+Quann, Lauren	Project Director III	1	88400
+Rabalais, Jennifer D	Project Director III	1	88400
+St Jacques, Mary E	Project Director III	1	88400
+Thompson, Amy L	Sr Online Professional Faculty	1	88400
+Ward, Larry G	Research Assoc Professor	1	88237.6
+Mandrell, Melissa L	Project Director II	1	88163.71
+Macpherson, Andrew M	Asst Professor	1	88080.27
+Troy, William F	Sr Lecturer	1	88068.84
+Frolking, Stephen E	Research Professor	0.6	88049.71
+Ziervogel, Kai	Research Assoc Professor	1	88005.37
+Waller, Lisa M	Clinical Assoc Professor	1	88000
+ALI, Mohammed Firasat	Information Technologist IV	1	88000
+Healey, Kevin	Assoc Professor	1	87984.77
+Smith, Subrena E	Assoc Professor	1	87921.09
+Furey, Nathaniel B	Asst Professor	1	87846.81
+Charntikov, Sergios	Assoc Professor	1	87836.19
+Hentges, Lynnette W	Sr Assoc Research Dev	1	87825.92
+Magnifico, Alecia M	Assoc Professor	1	87783.13
+Lusenhop, Richard W	Clinical Asst Professor	1	87678.14
+Hall, Dianne M	Grant and Contract Admin III	1	87614.8
+Losee, Gretchen D	Grant and Contract Admin III	1	87614.8
+Kim, Soo Hyon	Assoc Professor	1	87581.51
+Kastrisios, Christos	Research Asst Professor	1	87562.02
+Opuda, Eugenia C	Asst Professor	1	87549.66
+Halpin, Patricia A	Assoc Professor	1	87539.06
+Gleason, Stormy E	Information Technologist IV	1	87538.8
+Feliciano, Christopher	Athletic Coach III	1	87500
+Edry, Derek J	Marketing Dir	1	87500
+Hicks Johnson, Tara L	Project Director III	1	87500
+Moore, Cheryl	Grant and Contract Admin III	1	87361.46
+Slattery, Scott Patrick	Assoc Field Specialist	1	87360
+Floyd, Crystal A	Sr Accountant	1	87192.56
+Coffin, Jaed M	Assoc Professor	1	87178.24
+Jeffers, Victoria	Asst Professor	1	87178.24
+MacLea, Kyle S	Assoc Professor	1	87125.18
+Lopate, Clifford	Research Assoc Professor	0.75	87123.17
+Morris, Krystalynne	Project Research Specialist II	1	87055.33
+Chen, Szu-Han	Asst Professor	1	87019.06
+Dao, Maria Carlota	Asst Professor	1	87019.06
+Oldenhuis, Nathan John	Asst Professor	1	87019.06
+Turcotte, Gregory J	Business Director	1	87000
+Draper, Nora R A	Assoc Professor	1	86976.62
+Letscher, Robert T	Asst Professor	1	86923.56
+Whitten, Carl L	Facilities Mgr	1	86844.21
+Goulart, Karoline P	Dir Admissions	1	86840
+Haynes, Richard	Dir Admissions	1	86840
+Sisk, Jason	Interoperability Mgr I	1	86840
+Akiyama, Sachiko	Assoc Professor	1	86796.21
+Slover, Todd K	Dir Inst Effect Compl and Plan	1	86770.32
+Barnes, Paul L	Information Technologist III	1	86749.21
+O'Keefe, Christine Marie	Principal Lecturer	1	86733.62
+Mangan, Michael A	Principal Lecturer	1	86733.61
+Moran, Catherine L	Principal Lecturer	1	86730.6
+Majewski, Carl J	Full Extension Field Spec	1	86728.1
+Franklin, John	Lecturer	1	86700
+Fairchild, Kenneth W	Information Technologist III	1	86675.32
+Proctor, Sarah E	Clinical Assoc Professor	1	86654.2
+Sherman, Jill M	Asst Professor	1	86647.64
+Huang, Chia-Lin	Research Asst Professor	1	86615.5
+Nandipi, Harish	Information Technologist IV	1	86559.2
+Francis, Kirk W	Information Technologist IV	1	86516.98
+Vyas, Yashwant Prakash	Dir Multicultural Student Aff	1	86500
+Cramer, William Douglas	Research Scientist III	1	86495.86
+Rogers, Shannon H	Assoc State Spec Professor	1	86421.97
+Fisher, Carol J	Principal Lecturer	1	86378.94
+Morrell, Jesse Stabile	Principal Lecturer	1	86361.36
+Adamick, Thomas Stephen	IT Project Mgr	1	86320
+Tessier, Cher	IT Project Mgr	1	86320
+Ahern, John C	Sr Mechanical Engineer	1	86320
+Bekkala, Ronald S	Information Technologist IV	1	86317.68
+Bird, Elizabeth M	Information Technologist IV	1	86268
+Rigg, Sarah H	Principal Lecturer	0.88	86256.3
+Chase, Melissa A	Marketing and Promotion Coord	1	86221.41
+Lemos, Scott R	Lecturer	0.88	86166.54
+Mian, Nicholas D	Assoc Professor	1	86148.88
+Schefer, Donna L	Principal Lecturer	1	86148.18
+Walker, Sarah R	Asst Professor	1	86095.82
+Van der Graaff, Ivo	Assoc Professor	1	86063.97
+Braswell, Angela M	Clinical Asst Professor	1	86000
+Evans, Elizabeth J	Clinical Asst Professor	1	86000
+Poduval, Bala	Research Scientist III	1	85968.06
+Cheng, Jingwei	Asst Professor	1	85957.85
+Jellison, Brittany	Asst Professor	1	85957.85
+O'Brien, Anna	Asst Professor	1	85957.85
+Sousounis, Konstantinos	Asst Professor	1	85957.85
+White, Easton R	Asst Professor	1	85957.85
+Benchetrit, Assaf	Assoc Professor	1	85945.2
+Chavez, Daniel	Assoc Professor	1	85945.2
+Coppens, Andrew D	Assoc Professor	1	85945.2
+Gibbons, Michelle G	Assoc Professor	1	85945.2
+Golomski, Casey	Assoc Professor	1	85945.2
+Leese, Michael S	Assoc Professor	1	85945.2
+Meiton, Fredrik A	Assoc Professor	1	85945.2
+Min, Deulre	Assoc Professor	1	85945.2
+Seal, Samantha L	Assoc Professor	1	85945.2
+Seichepine, Daniel R	Assoc Professor	1	85945.2
+Vannette, Charles M	Assoc Professor	1	85945.2
+Fitch, Nathan F	Sr Lecturer	1	85892.16
+Morgan, Kelly M	Information Technologist IV	1	85879.51
+Lainey, Cailand S	Annual Giving Dir	1	85800
+Gaudet, Katherine S	Honors Program Assoc Dir	1	85800
+Gagnon, Joshua A	Trio Director	1	85794.18
+Clyde, Malin E	Assoc State Specialist	1	85778.06
+Farrell, Elisabeth W	Project Director III	1	85725.28
+France, Kimberly Daniels	Lecturer	0.88	85680
+Reeves, Jason Otis	Lecturer	1	85680
+Cai, Xuan	Information Technologist III	1	85640.83
+Payette, Brooks C	Communication Dir	1	85619.72
+Lefebvre, Anna M	Sr Fin Planning and Ana Spec	1	85545.82
+Roberge, Steven Samuel	Assoc State Spec Professor	1	85503.6
+Parent, Sheldon T	Information Technologist III	1	85471.93
+Thomas, Tad	Facilities Mgr	1	85419.15
+Demaine, Philip D	Sr Project Machinist I	1	85410
+Chapman, Paul P	Strength and Condit Coach	1	85313.59
+Morris, Patricia A	Assoc Dir Admissions-UNHL	1	85280
+Fish, Amy Rose	Dir Fund Raising	1	85280
+Mullin, Theresa M	Information Technologist IV	1	85280
+Robinson, Christopher	Information Technologist IV	1	85280
+Thomas, Mike Anthony	Information Technologist IV	1	85280
+Baker, Jillaine VanEssen	Project Director II	1	85280
+Hamilton, Alyssa Anne	Psychologist	0.87	85280
+Contosta, Alexandra R	Research Asst Professor	1	85280
+Fahnestock, Maria F	Research Scientist III	1	85280
+Robinson, Monell Mae	Therapeutic Recreation Spec II	1	85280
+Thompson, Tye C	Therapeutic Recreation Spec II	1	85280
+Rowell, Matthew F	Project Director II	1	85260.81
+Stapleton, Jane Gerard	Dir PIRC	0.75	85210.67
+Fowler, Elizabeth R	Asst Professor	1	85170
+McIntire, Michael S	Information Technologist III	1	85081.36
+Murphy, Michael	Communication Dir	1	85043.36
+Soares, Bryan J	Captain Research Vessel	1	85018.02
+Bradt, Gabriela Martinez	Assoc State Specialist	1	85000.15
+Wares, Stephanie Ann	Advising and Acad Success Dir	1	85000
+Welham, Reginald S	Athletic Coach II	1	85000
+Dameron, Lori L	Career and Prof Success Dir	1	85000
+Simonton, Deborah L	Clinical Asst Professor	1	85000
+Sprague, Raina S	Dir Employer Relations	1	85000
+Beaulieu, James	Information Technologist III	1	85000
+Delp, Justin	Information Technologist IV	1	85000
+Eyster, Gregory	Information Technologist IV	1	85000
+Lauria, Jessica	Information Technologist IV	1	85000
+Ronda, Amanda Dev	Information Technologist IV	1	85000
+Ragland, James Marion	Lecturer	0.88	85000
+Martin, Lara	Research Scientist II	1	85000
+Simmons, Charlana Yvette	Trio Director	1	85000
+Enelamah, Ngozi Victoria	Asst Professor	1	84896.64
+Simmons-Horton, Sherri Yvonne	Asst Professor	1	84896.64
+Suh, Won Hyuk	Asst Professor	1	84896.64
+Gaff, Crystal L	Information Technologist IV	1	84760
+Rydberg-Hall, Erika L	Information Technology Mgr	1	84760
+Grindal, Karl Theodore	Asst Professor	1	84660
+Goodwin, Casey S	Principal Lecturer	1	84596.76
+Cox, Patricia H	Clinical Assoc Professor	1	84484.19
+Berger, Lauren N	Asst Dean of Student Affairs	1	84448
+Fiumara-Montgomery, Michelle L	Executive Chef	1	84448
+Mooney, Devina Ann	Grant and Contract Admin III	1	84448
+Norman, Noreen L	Grant and Contract Admin III	1	84448
+Kunam, Mahalakshmi	Information Technologist IV	1	84448
+Snow, George F	Information Technologist IV	1	84448
+Golas, Catherine J	Institutional Research Spec	1	84448
+Henly, Megan M	Project Director III	1	84448
+Al-Haddad, Nada	Research Asst Professor	1	84448
+Argall, Matthew R	Research Asst Professor	1	84448
+Ferdousi, Banafsheh	Research Asst Professor	1	84448
+Ricker, Christa Rachel	Student Serv Division Coord	1	84448
+Woodside, Jennifer J	Alumni Relations Officer II	1	84310.77
+Routhier, Michael Rene	Information Technology Mgr	1	84268.55
+Heath, Renee G	Assoc Professor	1	84260
+Tamblyn, Nicholas A	Information Technologist IV	1	84240
+Grunkemeyer, Vanessa L	Clinical Assoc Professor	1	84146.4
+Johnson, Kimberly S	Grant and Contract Admin II	1	84078.54
+Frost, Lauryn	Clinical Asst Professor	1	84000
+Stewart, Rachel Anne	Dir SHARPP	1	84000
+Herrick, Christina	Research Scientist III	1	84000
+Sullivan, Franklin B	Research Scientist III	1	84000
+Carter, Maureen Ann	Hospitality General Mgr	1	83991.45
+Hamilton, Lawrence C	Professor	0.5	83856.66
+Harzewski, Stephanie	Principal Lecturer	1	83701.43
+Eckstein, Robert P	Principal Lecturer	1	83701
+Stracuzzi, Nena F	Principal Lecturer	1	83701
+Tremblay, Cynthia	Sr Library Mgr	1	83666.86
+Schuh, Mary Clare	Research Assoc Professor	1	83651.36
+Marvel, Krista Courtney Knarr	Lecturer	1	83640
+Butkiewicz, Thomas J	Research Asst Professor	1	83624.63
+Magnusson, Matthew F	Lecturer	1	83554.32
+Hildt, Tara C	Assoc Dir Admissions	1	83500
+Chamberlin, Bruce A	Information Technologist III	1	83424.07
+Benedetto, David A	Lecturer	1	83258.52
+Oliver, Brooks William	Annual Giving Dir	1	83200
+Reed, Samantha M	Annual Giving Dir	1	83200
+Roberge, Suzanne E	Annual Giving Dir	1	83200
+Johnson, Jeremiah	Assoc Architect	1	83200
+Eberle, Rosemary Emma Hartup	Communication Dir	1	83200
+Banker, Lauren E	Dir Government Relations	1	83200
+Leach, David C	Educational Program Coord II	1	83200
+Sweeney, Kelly	Information Technologist III	1	83200
+Sames, William	Information Technologist IV	1	83200
+Potter, Ryan C	Information Technology Mgr	1	83200
+Bundschuh, Kristine Alexis	Institutional Research Spec	1	83200
+Kahn, James Michael	Interoperability Mgr I	1	83200
+Rush, Joshua	Interoperability Mgr I	1	83200
+Vogler, Skylar Robert	Mgr Scientific Lab	1	83200
+Chagnon, Jennifer R	Project Director II	1	83200
+Nunez, Moises	Project Director II	1	83200
+Stanton, Sara Elizabeth	Project Director II	1	83200
+Turnbull, Megan S	Project Mgr	1	83200
+Hinton, Brandon J	Public Safety Sergeant	1	83200
+Crowell, Jessica Lee Gagnon	Trio Director	1	83200
+Smith, Sarah L	Asst Professor	1	83039.53
+Glidden, Stanley J	Information Technologist IV	1	83022.94
+Nute, Riannon Jaye	Career and Prof Success Dir	1	83000
+Wells, Maggie	Career and Prof Success Dir	1	83000
+Whitney, Stephanie R	Career and Prof Success Dir	1	83000
+Marshall, Zachary L	Executive Chef	1	82980.72
+Pietro, Kevin J	Clinical Assoc Professor	1	82885.71
+Bowley, David P	Campus Energy Mgr	1	82864.6
+Moll, Remington James	Asst Professor	1	82774.23
+Shaffer, Laurie R	Asst Professor	1	82774.23
+Lindquist, Scott H	Facilities Mgr	1	82759.04
+Jordan, Andrew P	Research Scientist III	1	82759.04
+Leon, Miguel Carlos	Information Technologist IV	1	82706.26
+Christison-Lagay, Kate L	Asst Professor	1	82620
+Hernandez, Christopher Owen	Asst Professor	1	82620
+Kloepper, Laura N	Asst Professor	1	82620
+Mena, Noereem Z	Asst Professor	1	82620
+Thorson, Jill C	Asst Professor	1	82551.38
+Greenslade, Kathryn J	Asst Professor	1	82540.77
+Kuschke, Joel David	Communication Info Spec III	1	82500
+McAdam, Kelly G	Assoc Field Specialist	1	82485.52
+DesRoches, Kathy L	Sr Online Professional Faculty	1	82290
+Healey, Scott M	Facilities Asset Mgr	1	82288.75
+Amick, Paige J	Donor Relations Officer II	1	82231.24
+MacLennan, John A	Public Safety Sergeant	1	82201.6
+Higgins, Susan L	Grant and Contract Admin III	1	82160
+Rohwer, Cindi L	Academic Department Coord	1	82146.79
+Brewer, Kathryne B	Asst Professor	1	82052.61
+Vinchesi-Vahl, Amber	Assoc State Specialist	1	82000
+Dostie, Melanie Higgins	Business Director	1	82000
+Coffey, Courtney	Clinical Asst Professor	1	82000
+Michalak, Clarissa	Clinical Asst Professor	1	82000
+Ogier, Jennifer Lord	Clinical Asst Professor	1	82000
+Phelps, April Lisa	Clinical Asst Professor	1	82000
+Horton, Lia	Contract Librarian	1	82000
+Beltre, William	Information Technologist IV	1	82000
+Teichert, Abigail	Information Technologist IV	1	82000
+Ramlall, Sunil	Sr Online Professional Faculty	1	82000
+Zahabi, Liese L	Asst Professor	1	81797.93
+Richard, Jean L	Admin Services Specialist	1	81787.89
+Carter, Elizabeth A	Asst Professor	1	81723.64
+Barillas, Laure Coline	Asst Professor	1	81713.02
+Spindel, Jennifer	Asst Professor	1	81713.02
+Kelshaw, Patricia	Asst Professor	1	81600
+VanCamp, Amy B	Clinical Asst Professor	1	81539
+Bean, Gretchen H	Clinical Assoc Professor	1	81534.54
+O'Neil, Cheryl A	Asst To The President	1	81530
+Bernard, Felicity	Project Director II	1	81502.88
+Constable, Jonathan D	Career and Prof Success Dir	1	81500
+Konzett, Matthias B	Principal Lecturer	0.88	81426.06
+Wormwood, Jolie B	Asst Professor	1	81394.66
+Dorner, Sarah B	Assoc Dir Admissions-UNHL	1	81281.2
+Lewis, Kendra Marie	Assoc State Spec Professor	1	81281.2
+Parker, Cheryl M	Brewery Mgr	1	81238.98
+Brickett, Alexander J	Sr Facilities Project Mgr	1	81133.42
+Ryll, Kalyn Jane	Military and Veteran Serv Mgr	1	81120
+Place, Philip Fulton	Analytical Instr Scientist III	1	81040
+Harrison, Elizabeth Irene	Clinical Asst Professor	1	81006.74
+Shiklomanov, Alexander I	Research Assoc Professor	1	80698.04
+Potter, Jody David	Analytical Instr Scientist III	1	80690.06
+Palmer, Doreen	Assoc Registrar-UNH	1	80658.4
+Tzrinske, Ana C	Information Technologist III	1	80637.28
+Niland, Karen Sue	Sr Lecturer	1	80603.46
+Norwood, Matthew James	Project Director III	1	80560
+Bennett, Jessie L	Asst Professor	1	80535.08
+Kulik, Michael B	Lecturer	1	80460.66
+Bolton, Aaron	Sr Project Machinist I	1	80394.5
+Tomar, Nikhil	Asst Professor	1	80344.07
+Rumble, Brennen W	Hospitality General Mgr	1	80340
+Hollar, Amy Rebecca	Assoc State Specialist	1	80225.6
+Glosner, Julie	Business Analyst II	1	80225.6
+Armstrong, Catherine M	Research Project Mgr II	1	80225.6
+Bramer, Daniel J	Information Technologist IV	1	80120.04
+McLeod, Miles A	Research Project Mgr II	1	80120.04
+Whitehouse, Nancy L	Research Asst Professor	0.8	80088.37
+Ambrose, Jesse Langdon	Analytical Instr Engineer III	1	80080
+Silver, Darcy R	Analytical Instr Engineer III	1	80080
+Lewis, Kayode A	Assoc Dir Campus Recreation	1	80080
+Andreozzi, Haley A	Assoc State Specialist	1	80080
+Gasowski, Jeremy M	Communication Info Spec III	1	80080
+Glatz, Sarah Hope	Information Technologist III	1	80080
+Joyce, Colin James	Information Technologist III	1	80080
+Watts, Delitha L	Project Director II	1	80080
+Smith, Craig Harold	Lecturer	1	80070
+Butts, Jeffrey M	Public Safety Sergeant	1	80038.4
+O'Grady, Margaret	Lecturer	1	80003
+Ward, Heather S	Lecturer	1	80003
+Curtis, Liza A	Assoc Dir Financial Aid	1	80000
+Wilcox, Emily Kathryn	Asst Dir Civil Rights	1	80000
+Fitzpatrick, Kevin	Information Technologist III	1	80000
+Herr, Benjamin Allen	Interoperability Mgr I	1	80000
+Hammond, Jennifer L	IT Project Mgr	1	80000
+DiLima, Michael Rigoberto	Major Gifts Officer II	1	80000
+Law, Trevor Michael	Major Gifts Officer II	1	80000
+Whitworth, Tanya	Research Scientist III	1	80000
+Lehman, Pamela L	Sr Library Mgr	1	80000
+DiGregorio, Joseph S	Public Safety Sergeant	1	79996.8
+Walker, William Barton	Public Safety Sergeant	1	79934.4
+Broderick, Emily J	Donor Relations Officer II	1	79908.92
+Kimball, Carolynn A	Sr Assoc Dir Athletic Admin	1	79781.2
+Andrews, Tama H	Principal Lecturer	0.88	79755.3
+Andrews, Jennifer R	Project Director II	1	79687.24
+Curren, Leslie J	Sr Lecturer	1	79670.16
+Miko, Istvan	Research Scientist II	1	79634.46
+Doherty, Tiffany J	Student Serv Division Coord	1	79623.91
+Smiley, William A	Asst Professor	1	79622.45
+Johnson, Kristen C	Asst Professor	1	79590.6
+Ryan, Melissa Joann	Asst Professor	1	79590.6
+Toth, Rita	Business Analyst II	1	79560
+Arredondo, Robert	Sr Lecturer	1	79536.54
+Andrews, Christina M	Major Gifts Officer II	1	79528.9
+Zimo, Ann E	Asst Professor	1	79507.42
+Clark, Timothy Donald	Information Technologist IV	1	79459.76
+Wager, Susan M	Asst Professor	1	79442.04
+Sleep, Michael B	Information Technologist III	1	79338.9
+Choate, Mary S	Assoc Field Specialist	1	79307.23
+Armenti, Karla R	Research Asst Professor	0.85	79284.14
+Ferguson, Michael D	Asst Professor	1	79251.03
+DeVaughn, Daniel J	Information Technologist III	1	79212.22
+Chaloux, Paul A	Facilities Mgr	1	79191.11
+Silverstein, Jamie D	Dir Off Campus Engagement	1	79170
+Lapinski, Scott Draper	Dir Student Access Services	1	79170
+Van Horn, Rebecca	Information Technologist III	1	79170
+Leonard, Meagan	Major Gifts Officer II	1	79170
+Sigel, Erin	Research Scientist II	1	79170
+Poulin, Clifford M	Information Technologist III	1	79138.33
+Hendricks, Crystal R	Asst Professor	1	79060
+Sheahan, Kathleen F	Business Operations Spec II	1	79053.88
+Gerard, Jeanne G	Lecturer	1	79052.04
+Frigon, Jeff M	Dir Youth and Student Programs	1	79040
+Heng, Navy	Project Director III	1	79040
+Cochran, Callum J	Public Safety Sergeant	1	79040
+Batterson, Sarah A	Sr Online Professional Faculty	1	79040
+Cormier, Carolyn Nicole	Sr Online Professional Faculty	1	79040
+Hipp, Kathleen M	Sr Online Professional Faculty	1	79040
+Kondrath, Rita A	Sr Online Professional Faculty	1	79040
+Lagarde, Christian P	Sr Online Professional Faculty	1	79040
+Patenaude, Kathleen J	Sr Online Professional Faculty	1	79040
+Rice, Courtney A	Sr Online Professional Faculty	1	79040
+White, Karen R	Sr Online Professional Faculty	1	79040
+Volpini, Jason	Information Technologist IV	1	79000
+Grizzle, Raymond Edward	Research Professor	0.75	78924.57
+LaClair, Dennis A	Information Technologist III	1	78878.65
+Moschella, Elizabeth	Research Scientist III	1	78877.6
+Selner, Erin M	Business Mgr II	1	78842.4
+Wainwright, Anna F	Asst Professor	1	78796.41
+Moore, Justin C	Information Technologist III	1	78758.32
+Devasher, Madhavi	Asst Professor	1	78709.8
+Hunt, Sarah W	Alumni Relations Officer II	1	78684.42
+Froburg, Erik	Project Director II	1	78599.98
+Ellis, Kathryn D	Information Technologist III	1	78577.18
+Gibson, Ryan	Asst Professor	1	78540
+Hwang, NaYoung	Asst Professor	1	78540
+Bonzani, Paul	Clinical Asst Professor	1	78539
+Petruccelli, Gabrielle E	Clinical Asst Professor	1	78539
+Pesci, Stephen T	Project Director Special Proj	0.8	78520
+Budro, Shawn N	Information Technologist IV	1	78504.97
+Hoffman, Dana L	Sr Lecturer	1	78407.4
+Desjardins, Gary W	Grant and Contract Admin II	1	78388.86
+Armour, Leasa E	Information Technologist III	1	78378.3
+Whitehouse, Jon M	Farm Mgr II	1	78314.96
+Lan, Tu	Asst Professor	1	78147.37
+Bukher, Faina	Project Director II	1	78114.4
+Rahmanifard, Fatemeh	Research Scientist II	1	78086.2
+Plante, Erica-Lyn	Sr Scientific Data Analyst	1	78072.18
+Irelan, Rebecca A	Communication Dir	1	78008.84
+Roy, Susan Ann	Grant and Contract Admin II	1	78008.84
+Allen, Sarah Caitlin	Assoc State Specialist	1	78000
+Bartholomew, Kathryn	Asst Dir Residential Life	1	78000
+Miles, Edward Andrew	Business Analyst II	1	78000
+Milosavljevic-Ardeljan, Jovana	Career and Prof Success Dir	1	78000
+Goldstein, Ali M	Communication Dir	1	78000
+Johnson, Mara E	Communication Dir	1	78000
+Coughlin, Daniel Matthew	Facilities Mgr	1	78000
+Hight, Patricia Hester	Grant and Contract Admin II	1	78000
+Whitney, Elizabeth Joyce	Information Technologist III	1	78000
+Bandooni, Rohit	Information Technologist IV	1	78000
+Pereira, Melanie Isabel	Information Technology Mgr	1	78000
+Robinson, Christopher S	Information Technology Mgr	1	78000
+Ge, Julianna Sun	Postdoctoral Research Assoc	1	78000
+Crary, Kate A	Project Director II	1	78000
+Leavitt, Toniann M	Project Director II	1	78000
+Lipp, Katherine Abigail	Project Director II	1	78000
+Sadowski, Sarah Lynn	Project Director III	0.75	78000
+Atoro, Lindsay A	Regional Sr Advisor-GSC	1	78000
+Fairchild, Elizabeth A	Research Assoc Professor	0.75	78000
+Macadam, Daniel R	Research Project Engineer III	1	78000
+Gutierrez, Andressa	Research Project Mgr II	1	78000
+Covello, Stephen G	Information Technologist III	1	77924.4
+Eisenhaure, Stephen E	Land Use Coordinator	1	77920
+L'Italien, Rochelle J	Nutritionist	1	77920
+Shattuck, Michelle Daley	Research Scientist II	0.9	77903.28
+Ludwig, Ember D	Information Technologist IV	0.9	77797.72
+Davies, Bruce H	Information Technologist III	1	77797.19
+Lovell, Michele S	Clinical Asst Professor	1	77660.49
+Brunelle, Megan M	Alumni Relations Officer II	1	77586.6
+Jeong, Chung Hyeon	Asst Professor	1	77520
+Maiya, Sahitya	Asst Professor	1	77520
+Christensen, Melissa	Lecturer	1	77503
+LaClair, Paul V	Information Technologist III	1	77502.15
+Cornell, Melanie D	Sr Library Mgr	1	77500
+Mancini, Matthew Ernest	Sr Facilities Project Mgr	1	77480
+Rines, Daniel M	Sr Facilities Project Mgr	1	77480
+Alsip, Thomas Joseph	Asst Professor	1	77468.19
+Brian, Michael S	Asst Professor	1	77468.19
+McNamara, Scott W	Asst Professor	1	77468.19
+Armstrong, Jennifer K	Principal Lecturer	0.88	77401.68
+Keefe, Frances Lea	Information Technologist III	1	77386.04
+Arnold, Gretchen	Clinical Asst Professor	1	77375.48
+Kintzing, Elizabeth	Diving Program Officer	1	77333.26
+Thomas, Pamela J	Academic Department Coord	1	77269.92
+McClory, Jennifer G	Asst Bursar	1	77218.9
+Burdin, Rachel S	Asst Professor	1	77181.67
+Zambon, Kate	Asst Professor	1	77149.83
+Prescott-Bell, Angela L	Business Mgr II	1	77143.25
+Hess, Susan M	Sr Lecturer	1	77071.43
+Heath, Christopher Emery	Information Technologist III	1	77059
+O'Brien, Andrea C	Business Analyst I	1	77058.8
+White, Christina G	Project Director II	1	77058.8
+Wolbert, Jodi Lin	Accountant III	1	77000
+Salter, Matthew Jay	Dir Academic Success	1	77000
+McGeehan, Eugene J	Information Technologist III	1	76960
+Matsui, Hiroshi	Research Scientist II	1	76900.46
+McKenna, Sean M	Information Technologist III	1	76847.68
+Purrenhage, Jennifer L	Sr Lecturer	1	76838.64
+Nevells, Annie Elizabeth	Assoc Dir Admissions	1	76800
+Chirila, Ileana D	Asst Professor	1	76789.02
+Upham, David Michael	Asst Professor	1	76704.13
+Montminy, Timothy P	Sr Lecturer	1	76611.18
+Craycraft, Robert K	Extension Program Mgr	1	76509.89
+Killian, Chad Michael	Asst Professor	1	76500
+Kotsonis, Amy	Asst Professor	1	76500
+Stocz, Michael James	Sr Lecturer	1	76500
+Witt, Charlotte E	Professor	0.5	76454.74
+Bailey, April	Asst Professor	1	76449
+Reyes-Jaquez, Bolivar	Asst Professor	1	76449
+Tanrikulu, Ömer Daglar	Asst Professor	1	76449
+Herrick, Shawn C	Information Technologist III	1	76446.55
+Upham, Laura V	Assoc Registrar-UNH	1	76440
+Lloyd Earnshaw, Laurel	Communication Info Spec III	1	76440
+Francoeur, Kathryn A	Project Director II	1	76440
+Michael, Amy Rachel	Asst Professor	1	76406.98
+Jackman, Krista Law	Principal Lecturer	0.88	76325.58
+Knowles, Clark E	Principal Lecturer	0.88	76325.58
+Saunders, Olivia E	Assoc Field Specialist	1	76294.66
+Jarema, Patricia M	Sr Lecturer	1	76222.67
+Rush, Lee Pozzi	Clinical Assoc Professor	1	76119.32
+Gailunas, John P	Information Technologist III	1	76098.2
+Perkins, Donna M	Clinical Assoc Professor	0.88	76077.09
+Jones, Stephanie E	Athletic Coach II	1	76055.98
+Corvini, Marguerite	Project Director II	1	76041.35
+Moore, Susan V	Academic Department Coord	1	76000
+Millette, Sheri L	Business Mgr II	1	76000
+Berthiaume, Raymond Charles	Instructor Field Specialist	1	76000
+Rennels, Nathan J	Mgr Scientific Lab	1	76000
+Haney, Amanda L	Dir Gifts and Data Mgmt	1	75971.53
+Leach, Catherine K	Project Director II	1	75971.53
+Wood, Michael L	Admin Services Specialist	1	75920
+Duffy, Kieran	Asst Dir Residential Life	1	75920
+Rivard, Stephen James	Asst Dir Residential Life	1	75920
+Bell, Allison L	Communication Dir	1	75920
+Wang, Mantong	Sr Financial Data Spec	1	75920
+Rose, Wendy F	Business Mgr II	1	75918.75
+Henn, Mark J	Principal Lecturer	0.88	75825.78
+Lanzoni, Jose C	Project Research Specialist II	1	75823.75
+Willman, Joshua A	Athletic Coach II	1	75810
+Jamieson, Anne L	Lecturer	1	75781.92
+McConnell, Mark L	Professor	0.5	75727.81
+Meredith, Dawn C	Professor	0.5	75690.67
+Boucher, Adam N	Sr Lecturer	0.88	75657.48
+Cui, Wenjin	Asst Professor	1	75632.3
+Henny, Karen N	Sr Lecturer	0.88	75585.06
+Dempsey, Kenneth V	Educational Program Coord II	1	75528.18
+Ferguson, Lauren A	Asst Professor	1	75480
+Mosley, Marissa Antoinette	Asst Professor	1	75480
+O'Hicks, Karen	Lecturer	1	75480
+Toppin, Rebecca L	Lecturer	0.88	75480
+Zhang, Lin	Asst Professor	1	75451.89
+Conklin, Peter Michael	Dir Facilities Safety and Sust	1	75400
+Hunsaker, Adam G	Research Project Engineer III	1	75400
+Betts, Rebecca Lynn	Assoc Field Specialist	1	75380.4
+Broderick, Alexis L	Asst Professor	1	75345.77
+Maldari, Joanne M	Educational Program Coord II	1	75343.46
+Donovan, Kimberly Ann	Dir Center for Acad Enrichment	1	75285.39
+Delisle, Jeremy A	Assoc Field Specialist	1	75222.06
+Peracchi, Kelly Ann	Principal Lecturer	0.88	75202.56
+Park, Hyung J	Information Technologist III	1	75132.96
+Deacon, William H	Facilities Mgr	1	75053.16
+Briand, Deborah Lyn	Academic Department Coord	1	75000
+Lewis, Kacie B	Athletic Coach II	1	75000
+Gove, Lydia Beatrice	Business Analyst II	1	75000
+Wester, Francisca	Business Mgr II	1	75000
+Hollis, Eileen H	Clinical Asst Professor	1	75000
+Rogers, Shane	Communication Dir	1	75000
+Tamayo, Christie J	Communication Info Spec III	1	75000
+Edwards, David R	Env Health and Safety Coord I	1	75000
+Lee, William Young	Interoperability Mgr I	1	75000
+Robb, Patrick	Interoperability Mgr I	1	75000
+Robichaud, Andrew Leo	Interoperability Mgr I	1	75000
+Lannamann, Kenneth Arnold	Research Project Engineer II	1	75000
+Pamboukes, Stephen Patrick	Research Project Engineer II	1	75000
+Zuidema, Shantar	Research Scientist III	1	75000
+Aspinall, Caitlin E	Sr Assoc Research Dev	1	75000
+Dittrich, Meaghan E	Writing Program Director	1	74984
+Lee, Melissa Hope	Assoc Field Specialist	1	74947.6
+Sylvia, Mary P	Admin Services Mgr	1	74880
+Stewart, Jessica E	Asst Dir Financial Services	1	74880
+Meginniss, Anne	Clinical Asst Professor	1	74880
+Lessard, Michela Fyler	Dietetics Program Coord	1	74880
+McGair, Marilyn F	Dir Undergrad Academic Ops	1	74880
+Hoffman, Shelby A	Facilities Mgr	1	74880
+Kiefaber, Trevor Garret	Information Technologist IV	1	74880
+Veenstra, Caitlyn Rose	Project Director II	1	74880
+West, Kelsi M	Project Director II	1	74880
+Nafi, Akhter Mahmud	Research Scientist III	1	74880
+Gosselin, Michael M	Information Technologist III	1	74842.04
+Paul, Shreya	Project Director II	1	74736.48
+Ellis, Lorna B	Information Technologist IV	0.8	74641.48
+Campbell, Scott M	Sr Project Machinist II	1	74472.58
+Harris, Lauren	Asst Professor	1	74460
+Kirby, Elizabeth A	Nurse Practitioner	0.75	74451.94
+Norton, Kathleen H	Contract Librarian	0.88	74419.8
+Jean, Allison C	Program Admin Specialist	1	74390
+Heath, Gail R	Public Safety Office Mgr	1	74390
+Bailey, Sheila A	Information Technologist III	1	74360
+Cramton, Steven T	Information Technologist III	1	74360
+Williams, Daniel Kenneth Bruce	Information Technologist III	1	74360
+Acker, Joy J	Dir Admissions Operations-GSC	1	74345.91
+Alperin, Holly L	Clinical Assoc Professor	1	74339.88
+Ebba, Jonathan M	Asst Field Specialist	1	74314.24
+Buchalski, Lisa Anne	Business Mgr II	1	74113.68
+White, Megan	Information Technologist III	1	74000
+Henry, Sarah Dodd	Project Director II	1	74000
+Goyait-Heikkinen, Melissa	Assoc Dir Trio Program	1	73997.56
+Kassel, Jeremy Gerhard	Annual Giving Officer II	1	73892
+Grady, Matthew J	Assoc Registrar	1	73892
+Bard, Amy S	Business Analyst I	1	73892
+Mathiasen, Laura	Business Analyst II	1	73892
+L'Heureux, Matt Adam	Campus Energy Mgr	1	73892
+Aydelott, Jack R	Chef II	1	73892
+Carver, Jessica L	Child Study and Dev Center Mgr	1	73892
+Haywood, Lauren Beth	EEO and ADA Compliance Officer	1	73892
+Karcher, Brandon C	Printing and Mail Services Mgr	1	73892
+Dunn, Heidi Edwards	Project Director II	1	73892
+Naismith, Michele D	Project Director II	1	73892
+DiNardo, Paula M	Coord of Field Experience II	1	73853.85
+Ames, Keely E	Business Mgr II	1	73840
+MacAdam, Noah Coffin	Mechanical Engineer	1	73840
+Simpson, Stephen D	Research Scientist II	1	73840
+Rader, Samantha C	Lecturer	1	73771.5
+Schilling, Anthony	Lecturer	1	73665.42
+Woytonik, Kristen A	Lecturer	1	73665.42
+Curry, Susan A	Principal Lecturer	0.88	73657.26
+Smith, Laura A	Principal Lecturer	0.88	73656.88
+Jalbert, Susan M	Compliance Officer	1	73575.32
+Mandsager, Kathleen A	Administrative Manager II	1	73522.54
+Stribling, Kevin W	Information Technologist III	1	73514.1
+Peterson, Julia M	Full Ext State Spec Professor	0.75	73501.43
+Fletcher, Kathleen D	Sr Library Mgr	1	73500
+Ohkami, Takahide	Lecturer	1	73440
+Schwartz, Forrest	Lecturer	1	73440
+Baer-Bositis, Emily C	Asst Professor	1	73414.38
+Hopkins, Craig J	Information Technologist III	1	73343.09
+Simiele, Joseph A	Information Technologist III	1	73320
+Portrie, Carrie L	Research Asst Professor	1	73320
+Matuszek, Haley Marie	Clinical Asst Professor	1	73319
+Kordonowy, Lauren L	Project Director II	1	73269.2
+Lee, David J	Therapeutic Recreation Spec II	1	73257.6
+Skahan, Crystal R	Therapeutic Recreation Spec II	1	73257.6
+Humphrey, Susan Debra	Admin Services Mgr	1	73220
+Hou, Tianhang	Sr Scientific Data Analyst	1	73163.64
+Nepveu, Andrea L	Financial Aid Officer II	1	73074.67
+Salazar, Jennifer L	Admin Services Mgr	1	73060
+Nelson, Sally J	Admin Services Specialist	1	73008
+Kennedy, Laura Sullivan	Nurse Practitioner	0.75	73008
+Landau, Kristen Marie	Assoc Field Specialist	1	73000
+Cole, Chantal J	Clinical Asst Professor	1	73000
+Drake, Jacquelyn Elizabeth	Marketing and Promotion Coord	1	73000
+Yancey, Sarah Olivia	Mental Health Clinician	0.87	73000
+Bouwens, Kenneth F	Information Technologist III	1	72836.4
+DuBois-Garofalo, Karen	Project Director I	1	72836.4
+Dunleavy, Sara Elizabeth	Annual Giving Officer II	1	72800
+Marley, Wei	Annual Giving Officer II	1	72800
+Eberl, Kristin	Assoc Field Specialist	1	72800
+Kim, Rachel H	Asst Dir Undergrad Programs	1	72800
+Brustin, Kyla	Business Analyst I	1	72800
+Varney, Jill M	Business Mgr II	1	72800
+Moore, Jonathan	Business Operations Spec II	1	72800
+Call, Trenton Alan	Clinical Asst Professor	1	72800
+Gosling, Nicholas J	Communication Info Spec III	1	72800
+Smetana, Abigail	Coord of Field Experience II	1	72800
+Benedict, Raymond K	Facilities Mgr	1	72800
+Brown, Randolph	Grant and Contract Admin III	1	72800
+Merrill, Marc Lee	Information Technologist III	1	72800
+Young, Stephen Michael	Information Technologist III	1	72800
+Green, Shawn Patrick	Program Admin Specialist	1	72800
+Martin-Brown, Karen	Project Director II	1	72800
+Poncelet, Janie	Project Director II	1	72800
+Yang, Liu	Project Director II	1	72800
+Lyon, Abigail E	Project Director III	1	72800
+Sanborn, Lura	Project Mgr	1	72800
+Grivno, Susan M	Prospect Analyst II	1	72800
+Nyamasege, Carolyn K	Research Scientist II	1	72800
+Trask, Sarah Giles	Sr Fin Planning and Ana Spec	1	72800
+Wu, Ying	Sr Fin Planning and Ana Spec	1	72800
+Allen, David C	Sr Information Support Tech	1	72800
+Erda, Fikirte	Visiting Asst Professor	1	72800
+Wasiewski, Allison Marie	Project Director II	1	72675.2
+Grosvenor, Sarah KB	Assoc Field Specialist	1	72614.72
+Nugent, Lisa A	Information Technologist III	1	72606.58
+Boege, Sarah Lindsey	Research Scientist II	1	72600
+Fernald, Jonah L	Marketing and Promotion Coord	1	72540.83
+Alvarez, Mike Andrew Favila	Asst Professor	1	72420
+Frye, Jennifer M	Clinical Assoc Professor	1	72414.16
+Fekete, Monika	Information Technologist III	1	72398.33
+Han, Donna M	Mgr Housing Fac and Oper	1	72340.27
+Valdez, Charli G	Sr Lecturer	1	72295.98
+Jarvis, Hunter Patrick	Information Technologist III	1	72280
+Nickerson, Carl	Information Technologist III	1	72280
+Craig, Elizabeth C	Research Scientist II	1	72280
+Humphreys, Elizabeth P	Research Asst Professor	0.6	72266.38
+Webber, Elizabeth R	Assoc Dir OISS	1	72203.04
+Jordan, Gregory J	Assoc Field Specialist	1	72150.26
+Burakowski, Elizabeth A	Research Asst Professor	1	72108.04
+Cooke, Suzanne M	Lecturer	1	72072.18
+Wilton, Sean T	Public Safety Officer V	1	72072
+Spicer, Gregory	Clinical Asst Professor	1	72000
+Roberson, Matthew K	Laboratory Mgr	1	72000
+Ferrell, Lu R	Project Director II	1	72000
+Pratt, Leigh	Student Serv Division Coord	1	72000
+Wymore, Adam S	Research Asst Professor	1	71949.7
+Frohn, James E	Asst Field Specialist	1	71916
+Endrizzi, Susan I	Sr Lecturer	1	71809.17
+Marino, Mary B	Sr Lecturer	1	71809.17
+Soha, Michael L	Sr Lecturer	1	71800.86
+Davis, Mary C	Assoc Field Specialist	1	71780.8
+Gagnon, Michael Thomas	Assoc Field Specialist	1	71780.8
+Avgerinos, Stephen	Athletic Coach II	1	71780.8
+Miloro, Keri Vasquez	Clinical Asst Professor	1	71780.8
+Morgan, Meagan	Clinical Asst Professor	1	71780.8
+Doughty, Peter M	Information Technologist III	1	71780.8
+Young, Matthew Adam	Research Scientist II	1	71780.8
+Gray, Amy R	Parking and Campus Serv Mgr	1	71760
+Tappin, Elizabeth M	Research Associate II	1	71749.13
+Michaud, Amy E	Laboratory Mgr	1	71706.91
+Surina, Jennifer L	Business Mgr II	1	71685.8
+Cloutier, Heidi L	Project Director II	0.95	71630
+Silva, Bethany A	Research Asst Professor	1	71485.23
+Boucher, Kelsey	Clinical Asst Professor	1	71453.56
+Maccini, Rachel L	Lead Extension Program Mgr	1	71417.79
+Easterling, Dean N	Facilities Mgr	1	71411.34
+Mohebbi, Amin	Sr Lecturer	1	71400
+Halley, Shelby Marie	Research Laboratory Supervisor	1	71385.6
+Emond, Marc A	Research Scientist II	1	71305.78
+Mitchell, Kenneth S	Information Technologist III	1	71274.11
+Bedell, Micaela Elizabeth	Communication Info Spec III	1	71253
+Jones, Louise E	Information Technologist III	1	71242.44
+Homolka, Jeremy D	Asst Dir Housing	1	71240
+Benevides, Eric	Information Technologist III	1	71221.33
+Pack, Deborah Ann	Admissions Officer II	1	71210.78
+McLaughlin, Sean R	Lecturer	1	71204.16
+Garnas, Corena L	Alumni Relations Officer I	1	71179.11
+Ford, Evan T	Farm Mgr I	1	71158
+Reding, Ginny L	Project Director II	1	71000
+Cauchon, Claudia S	Information Technologist II	1	70904.65
+Bolton, Kristin A	Asst Registrar	1	70894.1
+Baker, Jennifer A	Educational Program Coord II	1	70883.54
+Hupper, Veronica P	Sr Lecturer	0.88	70833.9
+Boggis, Marie A	Admissions Officer II	1	70725.2
+Lindblom, Jada Winter	Assoc Field Specialist	1	70725.2
+Webber, Juliet N	Asst Dir Prof Dev and Train	1	70725.2
+Hufziger, Marisa L	Donor Relations Officer I	1	70725.2
+Venegas, Gabriel Ricardo	Research Asst Professor	1	70725.2
+Polizzotti, Michael	Assoc Field Specialist	1	70720
+Perry, Cassandra	Clinical Asst Professor	1	70720
+Edgar, Brittany R	Communication Info Spec III	1	70720
+Carchidi, Daniel	Educ Cert Program Officer	1	70720
+Dufour, Elizabeth	Information Technologist III	1	70720
+Mitchell, Andrew Ryan	Project Director II	1	70720
+Hunt, Christopher W	Research Asst Professor	1	70720
+Moser-Gauthier, Chrystal S	Research Scientist II	1	70720
+Quist, Judith Ellen	Library Mgr	1	70700
+Eckes, Hannah Darlene	Grant and Contract Admin II	1	70616
+Peters, Ryan G	Information Technologist III	1	70598.53
+Mallett, Michelle M	Athletic Trainer II	1	70471.86
+Manalo, Lester G	Nurse Practitioner	0.75	70461.3
+Salkin, Melinda	Nurse Practitioner	0.75	70461.3
+Laliberte, Marc	Program Admin Specialist	1	70461.3
+Toran, Paul T	Research Scientist II	1	70376.8
+Cannizzaro, Carla A	Sr Academic Advisor	1	70324.07
+Rabideau, Casey	Clinical Asst Professor	1	70319
+Kelly, Muriel	Medical Lab Shift Supervisor	1	70262.4
+Keene, Douglas J	Information Technologist III	1	70197.4
+Boucher, Ronald J	Sr Lecturer	0.88	70190
+D'Auteuil, Catherine A	Educational Program Coord II	1	70186.84
+Delampan, Tia Lynn	Major Gifts Officer II	1	70176.29
+Bush, Leo R	Utilities Dist Superintendent	1	70054.4
+Wallingford, Anna K	Research Asst Professor	1	70028.4
+Bencks, Aaron	Annual Giving Officer II	1	70000
+Houselog, Izabel	Annual Giving Officer II	1	70000
+Nardini, Amanda	Annual Giving Officer II	1	70000
+Acevedo, Chayanna	Asst Dir Online	1	70000
+Hoppler, Robert C	Athletic Coach II	1	70000
+Prosper, Judy Solange	Career and Prof Success Dir	1	70000
+Rockafellow, Caroline Horton	Career and Prof Success Dir	1	70000
+Arnold, Samantha B	Clinical Asst Professor	1	70000
+Liset, Kaitlynn E	Clinical Asst Professor	1	70000
+Spenski, Emily A	Clinical Asst Professor	1	70000
+Meadows, Benjamin David	Communication Info Spec III	1	70000
+McIntire, Lucy	Information Technologist III	1	70000
+Schafermeyer, Andrew Thomas	Instructor Field Specialist	1	70000
+Moser, Julie A	Online Community Mgr	1	70000
+Futrell, Morgan North	Project Director II	1	70000
+Saam, Chelsea	Project Director II	1	70000
+Chiarantona, Paul M	Public Affairs Mgr	1	70000
+Mehta, Sanjeev Manoj	Research Project Engineer II	1	70000
+Twombly, Phillip Anderson	Research Project Engineer II	1	70000
+Holland-Moritz, Hannah Elizabeth	Research Scientist II	1	70000
+MacLeod, Morgan Leigh	Research Scientist II	1	70000
+Bawa, Ranjit	Visiting Asst Professor	1	70000
+Pothen, Julia Nicole	Visiting Asst Professor	1	70000
+Walsh, Patricia R	Educational Program Coord II	1	69986.28
+Mills, Cynthia A	Financial Aid Officer II	1	69986.28
+Abel, Daniel Christopher	Research Scientist II	1	69933.5
+Chadbourne, Jennifer Rose	Clinical Asst Professor	1	69817.38
+Taetzsch, Amy	Clinical Asst Professor	1	69817.38
+Caldwell, Elizabeth E	Sr Lecturer	1	69758
+Karaivanova, Katerina D	Sr Lecturer	1	69758
+Robertson, Paul M	Sr Lecturer	1	69758
+Solomon, Alvin Maingi	Sr Lecturer	1	69758
+Yu, Lih-Hwa	Sr Lecturer	1	69758
+Wormwood, Benjamin Aaron	Sr Lecturer	0.88	69757.8
+Kelly, Matthew C	Assoc Field Specialist	1	69680
+Pittington, Lindsey	Information Technologist III	1	69680
+Puopolo, Dominic Charles	Research Project Engineer II	1	69680
+Hancock, Ian D	Sr Fin Planning and Ana Spec	1	69680
+Brock, Elizabeth Hall	Clinical Asst Professor	1	69669.6
+Pursel, Amber M	Information Technologist III	1	69669.6
+Bentzlin, Karisa E	Sr Fin Planning and Ana Spec	1	69669.6
+O'Neill, Jennifer L	Sr Fin Planning and Ana Spec	1	69669.6
+Sand, Christopher P	Sr Fin Planning and Ana Spec	1	69669.6
+Guy, Leo J	Catering Mgr	1	69659.04
+Colwell, Julia Marie Novak	Lecturer	1	69626.59
+Cunningham, Kyle P	Information Technologist III	1	69616.82
+Shumway, Suzanne Marie	Business Mgr II	0.9	69374.12
+Damiano, Lisa	Lecturer	1	69360
+Boisselle, Paul L	Business Mgr II	1	69352.92
+Eaton, Sharon	Financial Aid Officer II	1	69268.47
+Cook, Katherine Marie	Clinical Asst Professor	1	69160
+Hallahan, Francis R	Library Mgr	1	69150
+Martin, Laura D	Donor Relations Officer I	1	69141.8
+McGray, Shane C	Information Technologist III	1	69141.8
+Drake, Joseph D	Asst Field Specialist	1	69099.58
+Sharma, Sanjeev P	College Academic Affairs Coord	1	69015.13
+Hope, Michele	Clinical Asst Professor	1	69000
+Hutchins, Janell Ashley Smith	Information Technologist III	1	69000
+Schmid, Betty J	Administrative Coordinator	1	68952
+Turner, Patricia H	Administrative Coordinator	1	68952
+Davis, Janet L	Grant and Contract Admin I	1	68952
+Hull, Chandler E	Information Technologist III	1	68920.12
+Pierson, Janice G	Administrative Coordinator	1	68910.4
+Robinson, Brett M	Information Technologist III	1	68855.74
+Zaimes, Christine L C	Educational Program Coord II	1	68754.4
+Labbe, Michelle Marie	Clinical Asst Professor	1	68740.67
+Blank, Brian W	Athletic Coach II	1	68664.75
+Kenoyer, Curt Vukovich	Asst Dir MUB	1	68656.22
+Ajaezi, Danelis A	Assoc Dir Trio Program	1	68640
+Sears, Wendy A	Grant and Contract Admin II	1	68640
+Hoover, Karen Lee	Information Technologist III	1	68640
+Lirette, Jessica E	Prospect Analyst II	1	68640
+French, Cortney R	Asst Registrar	1	68614
+Cardinal, Siobhan M	Grant and Contract Admin II	1	68614
+Chapman, Kelly A	Grant and Contract Admin II	1	68614
+Walker, Michelle J	Grant and Contract Admin II	1	68614
+McDermott, William Paul	Information Systems Specialist	1	68614
+Dowaliby, Terri Sue	Information Technologist III	1	68614
+Smith, Megan	Information Technologist III	1	68614
+Brekke, Philip J	Major Gifts Officer I	1	68614
+Shellito, Shawn M	Research Scientist I	1	68561.22
+Morin, Thomas M	Sr Information Support Tech	1	68556.8
+Zitney, Dawn Dyonna	Health Educator II	1	68519
+Watts, Alison W	Research Asst Professor	0.75	68466.22
+Tocci, Kayla B	Communication Info Spec III	1	68307.88
+Lapp, Ashley Kate	Asst Registrar	1	68181.2
+Dibb, Jack E	Research Assoc Professor	0.5	68020.23
+Combs, Collean	Clinical Asst Professor	1	68000
+Bogonko, Michael Ndemo	Information Technologist III	1	68000
+Depelteau, Dana	Mgr Building Services	1	68000
+Johnson, Arlo	Research Scientist II	1	68000
+Smith, Leslie C	Sr Career Counselor	1	68000
+Kiely, Sarah E	Administrative Coordinator	1	67932.8
+Enos-Fournier, Megan E	Lecturer	1	67874.05
+Anderson, Janet L	Lecturer	1	67803.48
+Steinberg, David S	Lecturer	1	67737.18
+Cunningham-Spence, Chanda	Admin Services Specialist	1	67600
+West, Edward D	Business Information Analyst	1	67600
+Colbath, Nicole L	Business Mgr II	1	67600
+Martinson, Michelle	Business Operations Spec II	1	67600
+Godshall, Katherine Clare	Clinical Asst Professor	1	67600
+Thompson, Sheryl	Clinical Asst Professor	1	67600
+Luna, Otto I	Educational Program Coord II	1	67600
+Davis, Peter Henry	Farm Mgr I	1	67600
+Hammon, Jingjing	Grant and Contract Admin II	1	67600
+Donahue, Steven Kelly	Information Technologist III	1	67600
+Guthrie, James	Information Technologist III	1	67600
+Naber, Barbara	Institutional Research Asst	1	67600
+Upham, Rachael A	International Compl Officer	1	67600
+Shea, Sheila Crane	Major Gifts Officer I	1	67600
+Danault, Ronald R	Online Professional Faculty	1	67600
+Azem, Zachary S	Project Director I	1	67600
+Kleinmann, Daniel Alfred	Project Director II	1	67600
+Mattera, Trevor D	Project Director II	1	67600
+Smith, Tracy Lynne	Project Director II	1	67600
+Zhuang, Bin	Research Scientist II	1	67600
+Hickey, Sandra Reynolds	Communication Info Spec III	1	67558.4
+Desjardins, Andrew N	Information Technologist III	1	67558.4
+Goodnight, Seth	Medical Lab Shift Supervisor	1	67558.4
+Endres, Patrice M	Project Director II	1	67558.4
+Long, Dorrance J	Research Vessel Mate	1	67558.4
+Golinski, Jan V	Professor	0.5	67540.59
+Della Selva, Deborah A	Information Technologist III	1	67500
+Ward, Krystin M	Research Laboratory Supervisor	1	67360
+Faist, Theresa M	Mgr MUB Operations	1	67104.49
+Bennett, Michael	Information Technologist III	1	67080
+Hill, Laura A	Educational Program Coord II	1	67072.82
+Miner, Nathaniel B	Sr Information Support Tech	1	67059.2
+Whisnant, Michelle L	Sr Information Support Tech	1	67059.2
+Matsuoka, Atsushi	Research Asst Professor	1	67030.6
+Austin, Heather E	Academic Department Coord	1	67000
+Blancato, Brittany	Grant and Contract Admin II	1	67000
+Oliver-Yeager, Joanne	Sr Online Professional Faculty	1	67000
+Rhine, Kimberly A	Accountant I	1	66840.59
+Cassidy, William J	Information Systems Specialist	1	66830.04
+Kilinc, Beth R	Educational Program Coord II	0.75	66810
+Ellis, Judith Ann	Project Director III	1	66766.7
+Capozzoli, Michelle Hopkins	Sr Lecturer	0.88	66694.74
+Browne, Gretchen S	Clinical Asst Professor	1	66692.81
+Doran, Kelly Ann	Project Director II	1	66576.69
+Green, Gillissen	Educational Program Coord II	1	66560.73
+Brickett, Alexa L	Communication Info Spec III	1	66560
+Carot, Victoria	Mgr Theatre Operations	1	66560
+Neville-Carey, Patricia Ann	Sr Academic Advisor	1	66560
+Jensen, Carrie Jean	Sr Fin Planning and Ana Spec	1	66560
+Fournet, Michelle Elizabeth	Visiting Asst Professor	1	66560
+Frye, Matthew S	Clinical Asst Professor	1	66545.02
+Baker, Shane Reginald	Mgr Housing Fac and Oper	1	66534.47
+Alimayu, Laura	Asst Field Specialist	1	66502.8
+Ranno, Kimberley Rose	Information Technologist III	1	66502.8
+Grogan, Danielle S	Research Asst Professor	1	66502.8
+Bannon, Caitlin M	Sr Academic Advisor	1	66341.86
+Barbour, Jill K	Public Safety Officer V	1	66268.8
+Gamiao, Elaine G	Information Technologist II	1	66238.9
+Kerr, Emily L	Educational Program Coord II	1	66165.01
+Mitchell, Colleen D	Project Graphic Designer	1	66154.45
+Bersaw-Robblee, Michelle H	Asst Field Specialist	1	66040
+Raymond, Claudette A	IT Project Coord	1	66040
+Winans, Katharine A	Sr Lecturer	0.88	66037.86
+Smith, Ruth A	Extension Program Mgr	1	66000
+Hill, Logan J	Information Technologist III	1	66000
+Castle, Heather L	Library Mgr	1	66000
+Capen, Melissa J	Sr Career Counselor	1	66000
+Marti, Kelly J	Grant and Contract Admin II	1	65974.97
+Dolph, Andrew C	Information Systems Specialist	1	65651.99
+Davis, Christie L	Clinical Asst Professor	1	65647.76
+Ferrucci, Wendy T	Admissions Officer II	1	65605.54
+Parsons, James	Admin Services Specialist	1	65520
+Rousseau, Christine A	Educational Program Coord II	1	65520
+McCambly, Eric	Extension Program Mgr	1	65520
+Collopy, Mark	Program Admin Specialist	1	65520
+McMaster, William C	Project Director II	1	65520
+Buinicky, Adam Matthew	Prospect Analyst II	1	65520
+Wilber, Elizabeth Ann	Research Project Mgr I	1	65520
+Bonnell, Paula	IT Project Coord	1	65500
+Strong, David R	Information Technologist III	1	65447.2
+Tauriello, Daniel G	Laboratory Mgr	1	65447.2
+Muller, Martha Macey	Project Director II	1	65447.2
+Beecher, Robert F	Facilities Mgr	1	65426.09
+Zhou, Zaixing	Research Scientist II	1	65404.98
+Volle, Karen S	Project Director I	1	65299.42
+Phaneuf, Christopher M	Information Technologist II	1	65288.86
+Cuevas Bautista, Juan Carlos	Lecturer	1	65280
+Gunn, Brett Steven	Lecturer	1	65280
+Seal, Andrew R	Lecturer	0.75	65258.58
+D'Amore, Christopher	Information Technologist III	1	65214
+Wallingford, Nancy L	Human Resources Coord	1	65145.6
+Webber, Todd M	Facilities Asset Mgr	1	65066.56
+Girdner, Shelley R	Principal Lecturer	0.75	65056.62
+O'Keefe, Ronald P	Program Admin Specialist	1	65024.96
+Parent, Tracey	Admin Services Mgr	1	65000
+Budak, Daniel	Admissions and Advising Spec	1	65000
+Tripple, Andrea H	Assoc Dir Trio Program	1	65000
+McGrath, Alaya Anderson	Asst Registrar	1	65000
+Vellante, Aurora	Clinical Asst Professor	1	65000
+Vogt, David	Communication Info Spec II	1	65000
+Scruton, Jason Arthur	Farm Mgr I	1	65000
+Cvetanovich, Ariel M	Grant and Contract Admin II	1	65000
+Kirk, Stephanie Lynn	Grant and Contract Admin II	1	65000
+Kim, Hanna	Human Resources Specialist I	1	65000
+Orazio, Katie	Human Resources Specialist II	1	65000
+Anderson, Matthew Richard	Information Technologist III	1	65000
+Grebloski, Colin	Information Technologist III	1	65000
+West, Adrian	Information Technologist III	1	65000
+Young, Patricia	Information Technologist III	1	65000
+Coit, Kristina M	Institutional Research Asst	1	65000
+Sylvia, Shayna	Marketing and Promotion Spec	1	65000
+Thomas, Nathan	Research Associate II	1	65000
+El Baidouri, Fouad	Research Scientist I	1	65000
+Atkin, Ilya	Information Systems Specialist	1	64896
+Sharp, Andrew T	Academic and Career Counselor	1	64771.62
+Cowall, Sara H	Program Admin Specialist	1	64739.95
+Morey, Candice	Educational Program Coord II	1	64655.5
+Bernier, Stephanie A	Business Information Analyst	1	64592.16
+McClain, John F	Sr Lecturer	0.88	64540.5
+Oberle, Sara J	Asst Field Specialist	1	64480
+Lachance, Rachel Anne	Educational Program Coord II	1	64480
+Laviolette, Halie B	Educational Program Coord II	1	64480
+Mellor, Melissa Marie	Educational Program Coord II	1	64480
+Carignan, Adam	Facilities Project Mgr	1	64480
+Irelan, Peter	Facilities Project Mgr	1	64480
+Kussad, Zachary	Financial Data Spec	1	64480
+Coombs, Matthew Howard	Information Technologist III	1	64480
+Aubin, Richard Everett	Mgr Housing Fac and Oper	1	64480
+Sneath, Caleb-CJ	Mgr Theatre Operations	1	64480
+McKinley, Sean P	Project Director I	1	64480
+Hayward, Brianna Louise	Project Director II	1	64480
+Darak, Molly E	Sr Academic Advisor	1	64480
+Christenson, Dari L	Extension Program Mgr	1	64476.05
+Kaban, Wendy M	Academic Department Coord	1	64391.6
+Riddinger, Kathryn E	Asst Dir MUB	1	64391.6
+Lepkowski, Colette A	Asst Mgr Dining	1	64381.04
+Williams, Lindsey Clark	Research Scientist III	0.75	64350
+Windgaetter, Nina S	Sr Lecturer	0.88	64296.44
+Pahlevanzadeh, Hoda	Lecturer	1	64260
+Mulvey, Courtney L	Admissions and Advising Spec	1	64220
+Jackson, Robert Michael	Sr Lecturer	0.88	64210.02
+Fisher, Karen L	Asst Mgr Academic Affairs	1	64180.48
+Steele, Jessica H	Sr Human Resources Assistant	1	64168
+Whiteneck, Glen Allen	Lead Electrician	1	64022.4
+Allen, David R	Educational Program Coord II	1	64000
+Shumway-Pitt, Kathleen S	Coord of Field Experience I	1	63832.14
+Jones, Annie N	Administrative Coordinator	1	63814.4
+Coon, Audra Jean	Grant and Contract Admin I	1	63814.4
+Acheson, Lisa M	Financial Aid Officer II	1	63794.18
+Hale, Erin H	Lecturer	0.88	63750
+Snow, Jacob	Information Technologist III	1	63716.02
+Masci, Mary B	Educational Program Coord II	1	63700
+Kwasnik, Karrah P	Communication Info Spec II	1	63690
+Wasiewski, Madeleine J	Administrative Coordinator	1	63689.6
+Reilly, Wayne	Building Control Sys Tech	1	63689.6
+Campbell, Molly C	Sr Lecturer	0.88	63620.46
+Carey, Tomasen M	Sr Lecturer	0.88	63620.46
+Lamper, Kari D	Sr Lecturer	0.88	63620.46
+Tornick, Jan K	Sr Lecturer	0.88	63620.46
+White, Melinda M	Sr Lecturer	0.88	63620.46
+Withers, Sara A	Sr Lecturer	0.88	63620.46
+Vadeboncoeur, Matthew A	Research Scientist II	1	63599.9
+Alshech, Hannah Louise	Information Technologist III	1	63500
+Patey, Christopher	Business Operations Spec I	1	63440
+Rodgers, Margaret P	Educational Program Coord II	1	63440
+Jones, Ian Thomas	Postdoctoral Research Assoc	1	63440
+Cercone, Richard P	Recreational Sports Coord II	1	63440
+Ryan, Joelle R	Sr Lecturer	0.88	63365.46
+Mathai, Jubin George	Building Control Sys Analyst	1	63336
+Khounnasenh, Aerik	Building Control Sys Tech	1	63336
+Li, David	Clinical Assoc Professor	0.75	63336
+Brian, Kimberly F	Clinical Asst Professor	1	63336
+McCoy, Katherine Martin	Clinical Asst Professor	1	63336
+Melanson, Elizabeth Ellyn	Coord Advance and Alum Prog	1	63336
+Gutermann, Karen A	Coord of Field Experience II	1	63336
+Mogren, Lindsey Kyte	Coord of Field Experience II	1	63336
+Merrill, Michael Raymond	Educational Program Coord II	1	63336
+Fuda, Kristen	Instructional Laboratory Spec	1	63336
+MacDonald, Erin Rachel	Medical Lab Shift Supervisor	0.94	63336
+Ekola, Keli Janice	Program Admin Specialist	1	63336
+Ferrara, Megan	Program Admin Specialist	1	63336
+Knorr, Melissa Ann	Research Laboratory Supervisor	1	63336
+Kenter, Linas W	Research Scientist II	1	63336
+Castello, Peter	Information Systems Specialist	1	63314
+Deen, Phillip D	Sr Lecturer	0.88	63307.32
+Ryder, Allyson Margarite	Educational Program Coord II	1	63304.33
+Benson, David F	Sr Lecturer	0.88	63267.26
+Clavet, Jamie M	Marketing and Promotion Spec	1	63194.66
+Dowd, Matthew J	Sr Lecturer	0.88	63192.06
+Michaud, Michelle M H	Sr Lecturer	0.88	63192.06
+Azadian, Lori	Information Systems Specialist	1	63188.22
+Geoffroy, Heather L	Educational Program Coord II	1	63082.66
+Simmons, Michael J	Lecturer	1	63003.36
+Walther, Jamie Kelty	Admin Services Specialist	1	63000
+Bernitz, Nathaniel B	Asst Field Specialist	1	63000
+Young, Meredith Nicole	Clinical Asst Professor	1	63000
+Scheg, Abigail	Educational Program Coord II	1	63000
+Blackwell, Kristin	Env Health and Safety Spec	1	63000
+Ahmadian Alam, Leila	Postdoctoral Research Assoc	1	63000
+Jones, Cayce	Sr Career Counselor	1	63000
+Lavoie, Neal R	Athletic Equipment Mgr	1	62920
+Lamothe, Andre Jules	Information Technologist III	1	62920
+Johnson, Elizabeth O	Sr Lecturer	0.88	62878.92
+Umans, Kate E	Program Admin Specialist	1	62776.53
+Cacarillo, Aimee L	Sr Lecturer	0.88	62773.86
+Zielinski, Mark D	Sr Lecturer	0.88	62773.86
+Lee, Donna J	Extension Program Mgr	1	62734.31
+Hillsgrove, Holly L	Administrative Coordinator	1	62732.8
+Sullivan, Colleen P	Administrative Coordinator	1	62732.8
+Beliveau, Linda Tremblay	Assistive Technology Spec	1	62732.8
+Harris, Paula A	Sr Career Counselor	1	62714.26
+Makem-Boucher, Catherine S	Administrative Coordinator	1	62691.2
+Beemer, Lawrence W	Sr Lecturer	0.88	62688.18
+Malo, James A	Facilities Supervisor	1	62608
+Bellington, Mariah Star	Human Resources Coord	1	62587.2
+Brackett, Felicia M	Project Director I	1	62500
+Leiper, Samantha D	Project Director I	1	62500
+Swanson, Bethany Jean	Project Director I	1	62500
+Kozlowski, Paula	Admin Services Specialist	1	62400
+Watson, Amy R	Admin Services Specialist	1	62400
+Christoffels, Laura	Administrative Manager II	1	62400
+Wright, Jessica Ellen	Asst Field Specialist	1	62400
+Cataldo, Chloe F	Educational Program Coord II	1	62400
+Dwyer, Alexis	Educational Program Coord II	1	62400
+Ferris, Andrew Thomas	Educational Program Coord II	1	62400
+Schoonmaker, Emily Rachel	Educational Program Coord II	1	62400
+Vazza, Erica L	Educational Program Coord II	1	62400
+Charrette, Wayne A	Information Systems Specialist	1	62400
+Lihzis, Julia Faye	Mental Health Counselor I	1	62400
+Johnston, Jeremy Michael	Postdoctoral Research Assoc	1	62400
+Oehmke, Theresa Bristol	Postdoctoral Research Assoc	1	62400
+Orso, Kimberly	Program Admin Specialist	1	62400
+Young, Michele Rene	Program Admin Specialist	1	62400
+Munoz, Avery	Research Project Engineer I	1	62400
+Cooke, Jennifer	Sr Academic Advisor	1	62400
+Kost, Joel D	Sr Academic Advisor	1	62400
+LaPointe, Danielle Marie	Sr Academic Advisor	1	62400
+Legare, Tiffany R	Sr Academic Advisor	1	62400
+Masana, Jenny	Sr Academic Advisor	1	62400
+Stanton, Mary K	Sr Academic Advisor	1	62400
+VanderHooven, Jennifer L	Sr Academic Advisor	1	62400
+Blake, Kevin	Sr Information Support Tech	1	62400
+Parkhurst, Molly Ruth	Sr Information Support Tech	1	62400
+Pappajohn, Lisa B	Academic Advisor	0.94	62375.4
+Metz, Gretchen E	Business Operations Spec I	1	62364.85
+Zellem, Teresa Marie	Admin Services Mgr	1	62280.4
+Koeritz-Madanamohanan, Linsey	Educational Program Coord II	1	62280.4
+Chandler-Melancon, Kaylin	Project Director I	1	62280.4
+DeLong, Aria KM	Project Director I	1	62280.4
+Larrabee, Susan N	Project Director I	1	62280.4
+Torino, Anthony J	Project Director I	1	62280.4
+Abbott, Katherine R	Sr Lecturer	0.88	62269.98
+Husslage, Robin K	Marketing and Promotion Spec	1	62227.62
+Mead, Brian W	Facilities Supervisor	1	62108.8
+Legro, Keith	Research Laboratory Supervisor	1	62090.39
+Paradis, Zachary	Lead Plumber	1	62088
+Neal, Thomas R	Sup Locksmith Services	1	62067.2
+Oliver, Holly Hanford	Communication Info Spec II	1	62000
+Smith, Michael Wayne	Extension Program Mgr	1	62000
+Hogan, Mae	Facilities Project Mgr	1	62000
+Mozzoni, Melinda S	Facilities Project Mgr	1	62000
+Wanzer, Svetlana Elder	Grant and Contract Admin II	1	62000
+Imes, Johnathan Edward	Information Technologist III	1	62000
+Cassavaugh, Michelle	Project Director I	1	62000
+Warner, Chelsea Elizabeth	Admissions Officer II	1	61880
+Anderson, Jordan	Educational Program Coord II	1	61880
+Terry, Joseph L	Sr Lecturer	0.88	61851.78
+Hofmann, Anne C	Prospect Analyst	1	61752.6
+Wiley, Mary K	Lecturer	1	61743.61
+Ouellette, Eric J	Plumber Pipefitter	1	61713.6
+DeMaggio, Dianne	Grant and Contract Admin I	1	61651.2
+Desjardins, Sharon L	Grant and Contract Admin I	1	61651.2
+Parshall, Christine L	Lead Extension Teacher	1	61422.4
+Arcand, Carolyn L	Sr Lecturer	0.88	61387.68
+Pruiksma, Rose A	Sr Lecturer	0.88	61387.68
+Ruane, Nicole J	Sr Lecturer	0.88	61387.68
+Burvikova, Ekaterina V	Sr Lecturer	0.88	61387.04
+Cardinali, Michael C	Sr Lecturer	0.88	61387.04
+Gercke, Nicole T	Sr Lecturer	0.88	61387.04
+Holznienkemper, Alex	Sr Lecturer	0.88	61387.04
+Reynolds, Edward J	Sr Lecturer	0.88	61387.04
+Rioux, James M	Sr Lecturer	0.88	61387.04
+Rivera, Jolan Cabaccan	Sr Lecturer	0.88	61387.04
+Shank, Colin L	Educational Program Coord II	1	61372.58
+Bohlin, Ludmila	Business Mgr II	1	61360
+Greer, Thomas Eric	Business Operations Spec I	1	61360
+Ferrell, Nicole E	Communication Info Spec II	1	61360
+Kellogg, Joshua R	Educational Program Coord II	1	61360
+Bylancik, Kimberly Ann	Extension Program Mgr	1	61360
+Bresaw, Keri L	Sr Academic Advisor	1	61360
+Pierpont, Simon	Sr Academic Advisor	1	61360
+Wentland, Tyler J	Sr Academic Advisor	1	61360
+Morin, Amanda	Admin Services Specialist	1	61224.8
+Meyer, Catherine	Communication Info Spec II	1	61224.8
+DeJoie, John	Lecturer	1	61069.44
+McGilvray, Matthew D	Recreational Sports Coord II	1	61048
+Barnsley, Melinda J	Sr Information Support Tech	1	61048
+Chierichetti, Brice Roland Brooks	Sr Information Support Tech	1	61048
+Garcia, Christopher Louis	Sr Information Support Tech	1	61048
+Kysor, Steven Michael	Sr Information Support Tech	1	61048
+Marrone, Genarlyn I	Sr Information Support Tech	1	61048
+Spencer, Carolyn E	Sr Information Support Tech	1	61048
+Pittman, Lisa A	Sr Information Support Tech	1	61027.2
+Dhabolt, Kristin P	Communication Info Spec II	1	61000
+Styles, Ross William	Educational Program Coord II	1	61000
+Hare, Jenna C	Postdoctoral Research Assoc	1	61000
+Muniz, Awilda	Lead Extension Teacher	1	60950.34
+Cwynar, Daniel J	Educational Program Coord II	1	60844.78
+Rullo, Anthony Modestino	Sr Information Support Tech	1	60819.2
+Finke, Carrie Laura	Lecturer	1	60690
+Wang, Xin	Research Scientist I	1	60599.76
+Langton, Brian	Plumber Pipefitter	1	60569.6
+Taheny, Phillip Wayne Morgan	Building Control Sys Tech	1	60382.4
+Annis, Joshua Douglas	Information Technologist III	1	60360
+Sowe, Mahmoud J	Admissions Officer II	1	60320
+Pennewell, Amanda Catherine	Athletic Coach II	1	60320
+Hatch, Alexandra Renee	Communication Info Spec II	1	60320
+Joyce, Emma Lee	Communication Info Spec II	1	60320
+Cunningham, Lauren M	Educational Program Coord II	1	60320
+Mathison, Patricia	Educational Program Coord II	1	60320
+Oyekunle, Funmi Modupe	Educational Program Coord II	1	60320
+Prescott, Patricia Ann	Extension Program Mgr	1	60320
+Normand, Crystal	Fin Planning and Ana Spec	1	60320
+Gladstone, Katherine Jean	Health Educator II	1	60320
+Kunelius, Kendall Helene	Instructor Field Specialist	1	60320
+Romac, Sarah Alison	International Compl Officer	1	60320
+Sneath, Catherine	Mgr Theatre Operations	1	60320
+Zec, Allison Jane	Postdoctoral Research Assoc	1	60320
+Niemaszyk, Michael Joseph	Project Director I	1	60320
+Acker, Katherine E	Sr Academic Advisor	1	60320
+Carbajal, Keith H	Sr Academic Advisor	1	60320
+Cryer, Veronika B	Sr Academic Advisor	1	60320
+Hannon, Joseph B	Sr Academic Advisor	1	60320
+Peterson, Zachary M	Sr Academic Advisor	1	60320
+Salsbury, Jillian K	Sr Academic Advisor	1	60320
+Smeltzer, Tegan Pauline	Sr Academic Advisor	1	60320
+Talbot, Andrea M	Educational Program Coord II	1	60313.44
+Finger, Bradley J	Financial Aid Officer II	1	60295.87
+Foxall, Randi L	Research Laboratory Supervisor	1	60295.87
+Yu, Wenyuan	Postdoctoral Research Assoc	1	60216
+Audet, Alyssa	Project Director I	1	60169.2
+Berube, Jennifer Leigh	Project Director I	1	60169.2
+Bond, Sarah	Project Director I	1	60169.2
+Hall, Jeffrey A	Research Scientist II	0.75	60169.2
+Souvannaseng, Meagan	Grant and Contract Admin I	1	60028.8
+Haley, Kevin T	Public Safety Officer V	1	60028.8
+Walsh, Meghan	Admissions Officer II	1	60000
+Hastings, William Christopher	Asst Field Specialist	1	60000
+Gorski, Samantha Nichole	Communication Info Spec II	1	60000
+Doyle, Scott Alexander	Educational Program Coord II	1	60000
+Goguelet, Gwendolyn	Educational Program Coord II	1	60000
+Young, Caroline	Educational Program Coord II	1	60000
+Ernakovich, Andrew David	Env Health and Safety Spec	1	60000
+Getman, Bradley	Information Systems Specialist	1	60000
+Stacy, Robert John	Information Systems Specialist	1	60000
+Ferro Duarte, Henrique	Postdoctoral Research Assoc	1	60000
+Sun, Wei	Postdoctoral Research Assoc	1	60000
+Charewicz, Zachary James	Research Project Engineer I	0.75	60000
+Dixon-McMahon, Gail A	Sr Career Counselor	1	60000
+Quinn, Cavonta	Sr Information Support Tech	1	59987.2
+Warren, Nicholas D	Research Scientist I	1	59936.97
+Poole, Douglas M	Sports Information Officer I	1	59905.3
+Tutein, Emma F	Assoc Field Specialist	0.8	59831.41
+Qari, Zainab	Educational Program Coord II	1	59800
+Gagne, Maegan A	Laboratory Coordinator	1	59800
+Pulecio-Pulgarin, Mauricio	Lecturer	1	59750.58
+Konen, Ian M	Lecturer	0.88	59670
+Desmarais, Kristin	Instructional Designer	1	59641.4
+Banks, Stephanie M	Training Specialist	1	59641.4
+Gordon, Ashley	Educational Program Coord II	1	59500
+Weider, Sophie K	Project Director I	1	59500
+Ruth, David Nicholas	Postdoctoral Research Assoc	1	59450
+Manseau, Melissa A	Lecturer	1	59438.46
+Conboy, John Chester	Facilities Supervisor	1	59321.6
+Howard, Donald Everett	Facilities Supervisor	1	59321.6
+Hughes, Stacey Cristina	Lecturer	1	59292.6
+Darrah, Jacey L	Admin Services Specialist	1	59280
+Beals, Evan T	Admissions Officer II	1	59280
+Gagnon-Dube, Meredith Colleen	Admissions Officer II	1	59280
+Egea Alvarado, Zeanny	Extension Program Mgr	1	59280
+Brandon, Kelsey M	Project Director I	1	59280
+Klipsch, Samantha	Project Director I	1	59280
+Poehlman, Emilia T	Project Director I	1	59280
+Baxter, Victoria Nicole	Sr Academic Advisor	1	59280
+Forys, Cameron T	Therapeutic Recreation Spec I	1	59280
+Johnson, John Kennedy	Lead HVAC Mechanic	1	59259.2
+Powers, Christine R	Library Mgr	1	59200
+Hunt, Jonathan H	Research Technician III	1	59196.8
+Scheick, Jessica B	Research Asst Professor	0.89	59187.49
+Ohoueu, Marie-Josiane	Lecturer	0.88	59160
+Duran, Adam	Public Safety Officer V	1	59155.2
+Hayes, Jared P	Public Safety Officer V	1	59155.2
+Jordan, Cameron A	Public Safety Officer V	1	59155.2
+Oliver, Ryan C	Public Safety Officer V	1	59155.2
+Siegels, Felix J	Public Safety Officer V	1	59155.2
+Plascencia, Cynthia	Academic and Career Counselor	1	59113.6
+Blondin, Danielle N	Coord of Field Experience II	1	59113.6
+Bulava, Valentina	Educational Program Coord II	1	59000
+Morgan, Remi A	Prospect Analyst	1	59000
+Howard, Abigail	Sr Academic Advisor	1	59000
+Wilbur, Susan Lynne	Human Resources Coord	1	58947.2
+Dehn, Emeline	Library Mgr	1	58850
+Young, Alexander Roland	Research Scientist II	1	58800
+Fravor, Sharon A	Fin Planning and Ana Spec	1	58796.92
+Bolick, Molly	Educational Program Coord II	1	58760
+Hirshkind, Kyle Joseph	Educational Program Coord II	1	58760
+Bowe, Kathleen A	Postdoctoral Research Assoc	1	58760
+Bach, Stacia	Project Research Specialist I	1	58760
+Moody, Scot M	Sr Information Support Tech	1	58739.2
+Pacot, Charmaine	Information Systems Specialist	1	58700
+Clarke, Andrew	Sr Information Support Tech	1	58697.6
+Herman, Joseph Stephen	HVAC Mechanic	1	58614.4
+Boudreau, Scott D	Lecturer	0.88	58586.76
+Gagnon, Joy A	Lead Extension Teacher	1	58558
+Babin, Olivia	Admissions Officer II	1	58500
+Cardwell, Nicole Tocco	Project Director II	0.75	58500
+Wicklein, Haley F	Project Director II	0.75	58500
+Drake, Bridget A	Administrative Coordinator	1	58406.4
+Tanguay, Stacy	Research Laboratory Supervisor	1	58406
+Dow, Donald J	Library Mgr	1	58390
+Comeau, Scott Albert	Plumber Pipefitter	1	58281.6
+Richardson, Lindsey E	Public Safety Officer V	1	58281.6
+Stuart, Christopher	Public Safety Officer V	1	58281.6
+Hamilton, Akemi I	Financial Data Spec	1	58269.12
+Joy, Donald A	Financial Data Spec	1	58269.12
+Foreman, Abigail A	Assoc Registrar	1	58240
+Cortese, Claire	Communication Info Spec II	1	58240
+Chalkley, Jade Allesha	Educational Program Coord II	1	58240
+Claussen, Maureen R	Grant and Contract Admin I	1	58240
+Miller, Dennis Raymond	Mgr Scientific Lab	1	58240
+McKown, James Grant	Research Associate II	1	58240
+Bouchard, Amanda K	Therapeutic Recreation Spec I	1	58240
+Black, Kimberly B	Sr Information Support Tech	1	58094.4
+Rafal, Marisa	Annual Giving Officer I	1	58058
+Brown, Eric Ian	Information Technologist II	1	58058
+Farris, Susan E	Instructional Designer	1	58058
+Ruckman, Erin K	Instructional Designer	1	58058
+Burke, Sophia Anne	Postdoctoral Research Assoc	1	58058
+Hess, Robin	Prospect Analyst	1	58058
+Daigle, Nathan	Research Project Engineer I	1	58058
+Givens, Michael F	Asst Registrar	1	58047.44
+Picken, Stephen Townsend	Captain Research Vessel	0.75	58000
+Bradbury Koster, Samantha	Communication Info Spec II	1	58000
+Lassek, Pamela Jean	Coord of Field Experience II	1	58000
+Hand, Kathryn	Educational Program Coord II	1	58000
+Bliss, Ashley	EEO and ADA Compliance Officer	1	58000
+Spiecker, Barbara	Postdoctoral Research Assoc	1	58000
+Murphy, Eileen Elizabeth	Project Director I	1	58000
+Audet, Angela Hebert	Sr Academic Advisor	1	58000
+Pietkiewicz, Sasha Krystyna	Therapeutic Recreation Spec I	1	58000
+Carlson, Janice S	Mental Health Counselor I	1	57825.77
+Heerdt, Madison	Educational Program Coord II	1	57720
+Rafferty, Brian Hans	Educational Program Coord II	1	57720
+Shosa, Rodger Mark	Electrician	1	57678.4
+Carlson, Alicia C	Communication Info Spec II	0.8	57600
+Quiros, Shayna	Student Conduct Officer	1	57530.2
+Huffman, Jasmine Alexis	Coord of Field Experience II	1	57500
+Purslow, Stacey L	Educational Program Coord II	1	57466.86
+Genthner, Deborah A	Program Coordinator I	0.95	57442.32
+Stewart, William C	Recreational Sports Coord II	0.8	57435.2
+Harrington, Barbara O	Transportation Services Coord	1	57408
+Saad, Steven M	Lead Fleet Mechanic	1	57241.6
+Weatherbee, Stephanie L	Administrative Coordinator	1	57220.8
+Pennewell, Emma	Academic and Career Counselor	1	57200
+Kelly, Heather Anne	Asst Mgr Dining	1	57200
+Townsend, Lawrence William	Asst Mgr Dining	1	57200
+Kulp, Emily	Communication Info Spec II	1	57200
+Morin, Westleigh	Communication Info Spec II	1	57200
+Harding, Hannah	Development Associate	1	57200
+Joy-Bruner, Melanie R	Development Associate	1	57200
+Porter, Kristin T	Development Associate	1	57200
+Sanseverino, Dorothy A	Development Associate	1	57200
+Boyle, Stacey Teague	Educational Program Coord II	1	57200
+Robinson, Saege	Educational Program Coord II	1	57200
+Vining, Melanie Nicole	Educational Program Coord II	1	57200
+Murray, Jayson	Information Systems Specialist	1	57200
+Quigley, Kyle R	Instructor Field Specialist	1	57200
+Altindis, Nigar	Postdoctoral Research Assoc	1	57200
+Choi, Janggeun	Postdoctoral Research Assoc	1	57200
+Faiver-Serna, Cristina Diane	Postdoctoral Research Assoc	1	57200
+Weingarden, Merav	Postdoctoral Research Assoc	1	57200
+Berube, Tori L	Program Admin Specialist	1	57200
+Mattioni, Susan Katherine	Program Admin Specialist	1	57200
+Adams, Alli Puchlopek	Research Associate II	1	57200
+Leblanc, Veronique	Research Associate II	1	57200
+Perry, Apryl L	Research Scientist I	1	57200
+Thomas, Robert Gardner	Plumber Pipefitter	1	57158.4
+Pelechowicz, Robin Lee	Administrative Coordinator	1	57096
+Shannon, Dorothy J	Administrative Coordinator	1	57096
+Troy, Carol A	Administrative Coordinator	1	57096
+Welch, Bruce Fernald	Boiler Mechanic	1	57096
+Sager, Lauren B M	Lecturer	0.88	57008.82
+Hayes, Daniel James	Function Coordinator	1	57002.4
+Murphy, Kelley C	Asst Registrar	1	57000
+Barnhard, Hayley Grace	Communication Info Spec II	1	57000
+Lo, Diana	Educational Program Coord II	1	57000
+Brandt, Abigail	Mental Health Counselor I	1	57000
+Schwaner, Elizabeth Helen	Program Admin Specialist	1	57000
+Parrish-Valliere, Alexander Kohl	Project Director I	1	57000
+Williams, Jennifer Lee	Project Director I	1	57000
+Collado Quinones, Solimar	Sr Information Support Tech	1	56992
+Perez, Michael Henry	Electrician	1	56867.2
+Ghelli, Kassidy T	Communication Info Spec III	0.8	56858.84
+Gallant, Adam J	Administrative Coordinator	1	56825.6
+Bennett, Douglas Leslie	Plumber Pipefitter	1	56825.6
+Schwartz, Christopher Rene	Sr Information Support Tech	1	56784
+Johnson, R Curtis	Finish Carpenter	1	56763.2
+Rubury, Travis C	Information Systems Specialist	1	56738.5
+Loch, Elissa Rose	Communication Info Spec II	1	56680
+Underwood, Tina Ann	Coord Special Student Prog	1	56590.72
+Cournoyer, Jordan	Sr Information Support Tech	1	56513.6
+Silvani, Jacquelyn Rebeccah	Project Director I	1	56500
+Couch, Ryan James	Electrician	1	56492.8
+McPheters, Jamie R	Fin Planning and Ana Spec	1	56474.6
+Urbanski, Brian T	Sr Building Finish Technician	1	56368
+Andrews, Christine	Student Serv Division Coord	0.8	56252.92
+Nordstrom, Karen	Project Director II	0.75	56250
+Danforth, Kelly L	Administrative Coordinator	1	56243.2
+Haight, Laura J	Administrative Coordinator	1	56243.2
+Valinski, Elizabeth W	Grant and Contract Admin I	1	56243.2
+Williams-Barnard, Kaetryn L	Information Systems Specialist	1	56221.26
+Lapham, Kyle E	Academic Advisor	1	56160
+Ferreri, Madison E	Admissions Officer II	1	56160
+Gingue, Krysta Suzanne	Coord of Field Experience II	1	56160
+Riley, Jenna E	Coord of Field Experience II	1	56160
+Lumumba, Adrien	Function Coordinator	1	56160
+Friars, Jeffrey K	Grounds Mechanic	1	56160
+Berry, Colleen	Research Technician III	1	56160
+Seaman, Jennifer	Research Technician III	1	56160
+Leger, Amanda R	Educational Program Coord II	1	56041.8
+Aronson, Sandra B	Educational Program Coord II	1	56000
+McNamara, Patricia F	Educational Program Coord II	1	56000
+Bowden, Kristine Marie	Marketing and Promotion Spec	1	56000
+Kunz, Caitlyn	Marketing and Promotion Spec	1	56000
+Clifton, Elizabeth Marie	Postdoctoral Research Assoc	1	56000
+Dann, Brieauna E	Project Director I	1	56000
+Hartman, Kari Lynn	Research Laboratory Supervisor	1	56000
+Widger, Jason Richard	Electrician	1	55993.6
+Kmetz, Christian David	Information Systems Specialist	1	55978.47
+Plante, Melissa L	Business Information Analyst	1	55946.8
+Varney, Olivia D	Communication Info Spec II	1	55946.8
+Demarest, Lara E	Program Admin Specialist	1	55946.8
+Douglas, Shannan N	Coord of Field Experience I	1	55851.8
+Jablonski, Erica	Postdoctoral Research Assoc	1	55751.28
+Kim, Hyun Ju	Postdoctoral Research Assoc	1	55751
+Kwon, Jaekyeong	Postdoctoral Research Assoc	1	55751
+Warzin, Ashlee E	Project Director I	1	55746.24
+Couch, Brock	Postdoctoral Research Assoc	1	55640
+Glenn, Megan E	Extension Program Mgr	1	55447.7
+Kiefaber, Kaylee	Information Systems Specialist	1	55419
+McFarland, Melissa G	Project Director I	1	55419
+Duval, Jody A	Administrative Coordinator	0.94	55341
+Scott, Marlee	Program Coordinator I	1	55328
+Crotteau, Katie L	Academic Advisor	1	55286.92
+Leach, Allison M	Project Director I	0.85	55250
+Morin, Haeley	Asst Field Specialist	0.9	55224
+Tracy, Daniel Patrick	Sr Information Support Tech	1	55161.6
+Fine, Aleah Rachel	Academic and Career Counselor	1	55120
+Curtis, Mary E	Accountant I	1	55120
+Lamparelli, Adrianna Angeline	Admissions Officer II	1	55120
+Barnes, Cullen	Athletic Ticket Operations Mgr	1	55120
+Briggs, Timothy Dunlop	Communication Info Spec II	1	55120
+Stewart, Colleen Marie	Communications and Info Coord	1	55120
+Kemble, Abigail Sherwood	Grant and Contract Admin I	1	55120
+Lounsbury, Natalie P	Postdoctoral Research Assoc	1	55120
+Scanlan, Kay	Admissions Officer II	1	55000
+Burke, Jill M	Annual Giving Officer I	1	55000
+Harkins, Hannah	Annual Giving Officer I	1	55000
+Jerome, Kathryn	Annual Giving Officer I	1	55000
+Sovie, Dustin Charles	Annual Giving Officer I	1	55000
+Thompson, Faith	Annual Giving Officer I	1	55000
+Gordon, Heather Joy	Business Mgr II	1	55000
+Barresi, Emma	Communication Info Spec II	1	55000
+Schott, Bailey	Communication Info Spec II	1	55000
+Letendre, Amanda	Coord Special Student Prog	1	55000
+Eynon Hicks, Erika Stuart	Development Associate	1	55000
+Casner, Kylee Renae	Educational Program Coord II	1	55000
+Reny, Jacob C	Information Systems Specialist	1	55000
+Ritter, Francesca	Information Systems Specialist	1	55000
+McMahon, Sean	MUB Facilities Mgr	1	55000
+Florence, Matthew	Postdoctoral Research Assoc	1	55000
+Livernois, Mariah Christina	Postdoctoral Research Assoc	1	55000
+Mauntel, Matthew C	Postdoctoral Research Assoc	1	55000
+Crowell, Amanda	Program Admin Specialist	1	55000
+Townsend, Mikayla	Project Director I	1	55000
+Collins, Lindsey Ellison	Recreational Sports Coord II	1	55000
+Gast, Leanne R	Research Associate II	1	55000
+Kragen, Benjamin David	Research Scientist I	1	55000
+Robinson, Fred	Sr Building Finish Technician	1	54974.4
+Regnault, Florian	Postdoctoral Research Assoc	1	54912
+Powers, William Michael	Utilities Dist Technician	1	54912
+Grady, Nicole L	Dispatcher II	1	54849.6
+Kehoe, Marlo D	Administrative Coordinator	1	54787.2
+Beaupre, Tarah L	Administrative Coordinator	0.94	54249
+Bixby, Crystal M	Administrative Coordinator	1	54080
+Wilson, Sara Badger	Administrative Coordinator	1	54080
+Velasquez, Cynthia Kate	Admissions Officer II	1	54080
+Wischlburger, Nicholas Eric	Electrician	1	54080
+Hubbard, Kelsey E	Grant and Contract Admin I	1	54080
+Welch, Kristine Joan	Grant and Contract Admin I	1	54080
+Rogers, Christopher Douglas	HVAC Mechanic	1	54080
+Musoke, Nathan Kinlay-Balironda	Postdoctoral Research Assoc	1	54080
+Hinton, Brad W	Program Admin Specialist	1	54080
+Berghahn, Erich J	Research Technician III	1	54080
+Giacchetti, Amanda T	Research Technician III	1	54080
+Hebert, Kevin Ronald	Sr Information Support Tech	1	54080
+Redman, Alexander	Sr Information Support Tech	1	54080
+Callahan, Julia	Therapeutic Recreation Spec I	1	54080
+McElwain, Corinna	Therapeutic Recreation Spec I	1	54080
+Taylor, Nicole	Therapeutic Recreation Spec I	1	54080
+Conlon, James Brian	Utilities Dist Technician	1	54080
+Bradbury-Koster, Benjamin Albert	Academic Advisor	1	54000
+Brodeur, Valerie	Educational Program Coord II	1	54000
+Madhukar, Geet	Postdoctoral Research Assoc	1	54000
+Dimattia, Shawna Crystal	Project Director I	1	54000
+Brabec, Megan A	Educational Program Coord II	1	53930.6
+Garvey, Shona Cole	Financial Aid Officer II	1	53835.6
+Rice, Amy B	Program Admin Specialist	1	53835.6
+Graves, Katelyn L	Instructor Field Specialist	1	53768
+Walsh, Susan A	Assoc Professor	0.5	53750.19
+Perrault, Kelsey	Academic Advisor	1	53560
+Lee, Jeil	Postdoctoral Research Assoc	1	53560
+Zananiri, Danielle M	Program Coordinator I	1	53539.2
+Watson, Penny L	Military Benefits Specialist	1	53487.25
+Wrobel, James V	Sports Information Officer I	1	53487.25
+Spiers, Kathleen A	Administrative Coordinator	1	53414.4
+Pierce, Dana	Educational Program Coord II	1	53307.8
+Peoples, Susan Hawes	Project Director II	0.75	53250
+Farris, Timothy L	Sr Information Support Tech	1	53123.2
+Mihajlovic Knezevic, Ana	Fin Planning and Ana Spec	1	53096.68
+Pauline, Nancy B	Health Educator II	0.75	53075.57
+Berge, Chelsea M	Administrative Coordinator	1	53040
+Gallagher, Taylor Mackenzie	Admissions Officer II	1	53040
+Foye, Jason	HVAC Mechanic	1	53040
+Tripathi, Shubhandra	Postdoctoral Research Assoc	1	53040
+Fotino, Jacquelyn E	Recreational Sports Coord II	1	53040
+Chao, Corina	Research Associate II	1	53040
+Papa, Bette J	Sr Academic Advisor	0.75	53040
+Madigan, Sean W	Lecturer	0.88	53026.74
+Gonzalez, Ana	Academic Department Coord	1	53001.68
+Kyriazi, Emily	Academic Advisor	1	53000
+Lacke, Bailey Lin	Academic Advisor	1	53000
+Millar, Kelly	Academic Advisor	1	53000
+Baete, Danielle Rene	Admissions and Advising Spec	1	53000
+Ierardi, Carolyn	Admissions and Advising Spec	1	53000
+Slack, Alexandra	Admissions Officer II	1	53000
+Gurney, Taylor	Fin Planning and Ana Spec	1	53000
+Perry, Lauren Elizabeth	Fin Planning and Ana Spec	1	53000
+Magowan, Benjamin H	Sr Building Finish Technician	1	52832
+Hastings, John H	Research Scientist I	1	52800
+Trent, Derrick	Asst Mgr Dining	1	52780
+Morrison, Eric W	Postdoctoral Research Assoc	1	52780
+Vieira de Almeida, Kleves	Postdoctoral Research Assoc	1	52780
+Kahr, Kristine J	Registered Nurse	0.75	52780
+Pereira, Jenifer Ilyssa	Financial Aid Officer II	1	52733.2
+Kibler, Rebecca D	Administrative Coordinator	0.94	52728
+Karkour, Islam R M H	Lecturer	0.88	52669.74
+Montas, Lucia M	Lecturer	0.88	52669.74
+Trombley, John Kirk	Clinical Asst Professor	1	52500
+Gaumond, Erin E	Sr Information Support Tech	1	52499.2
+Monroe, Wendy S	Administrative Coordinator	1	52457.6
+Tuttle, Michael S	Engineering Technician II	1	52395.2
+Castro-Ponce, Clara Esther	Lecturer	0.88	52375.98
+Rousseau, Patricia A	Sr Human Resources Assistant	1	52332.8
+Fjelstad, Per E	Lecturer	0.88	52322.94
+Munoz Pina, Margarita	Lecturer	0.88	52322.94
+Schubert, Ashley	Lecturer	0.88	52322.94
+Thomson, Karie A	Military Benefits Specialist	1	52252.2
+Leary, Diana V	Program Coordinator I	0.94	52221
+McConaghy, Margaret	Administrative Coordinator	0.94	52162.5
+Theriault, Benjamin E	Sr Information Support Tech	1	52124.8
+Claridge, Kara	Academic Advisor	1	52000
+DeSousa, Jordan A	Academic Advisor	1	52000
+Marin, Elvis	Academic Advisor	1	52000
+Patrick, Drew	Academic Advisor	1	52000
+Carroll, Karen Ann	Administrative Coordinator	1	52000
+Baddaoui, Nancy	Admissions Officer II	1	52000
+McGuinness, Julie A	Asst Mgr Dining	1	52000
+Barry, Shane P	Dispatcher II	1	52000
+Goldberger, Jesse	Educational Program Coord II	1	52000
+Gant, Alycia M	Financial Aid Officer II	1	52000
+O'Sullivan, Kiegan J	Grant and Contract Admin I	1	52000
+Orsmond, Charlotte	Instructional Designer	1	52000
+Aykanat, Aylin	Postdoctoral Research Assoc	1	52000
+Coogan, Michael	Postdoctoral Research Assoc	1	52000
+Fraser, Benjamin T	Postdoctoral Research Assoc	1	52000
+Kim, Jinjae	Postdoctoral Research Assoc	1	52000
+Lee, Bo-Young	Postdoctoral Research Assoc	1	52000
+Levintov, Lev	Postdoctoral Research Assoc	1	52000
+Marchezi, Jose Paulo	Postdoctoral Research Assoc	1	52000
+Monteiro, Mauro Brum	Postdoctoral Research Assoc	1	52000
+Oelschlager, Robert	Procurement Business Partner	1	52000
+Carlman, Katherine	Program Admin Specialist	1	52000
+Wildey, Madison	Program Admin Specialist	1	52000
+Dion, Benjamin John	Program Coordinator I	1	52000
+Azotea, Bruce L	Public Safety Officer III	1	52000
+Kahn, Gina Zwerling	Research Associate II	0.87	52000
+Umana, Molly E	Research Associate II	1	52000
+Kelty, Colleen	Student Activities Officer	1	52000
+Macheras, Lea R	Therapeutic Recreation Spec I	1	52000
+Wang, Samantha	Therapeutic Recreation Spec I	1	52000
+Zuba, Miranda	Therapeutic Recreation Spec I	1	52000
+Hawkom, Jessyka	Program Coordinator I	1	51916.8
+Fazekas, Hannah M	Postdoctoral Research Assoc	1	51808.85
+Wright, Ciara	Educational Program Coord II	1	51777.18
+Morrison, Nina L	Lecturer	0.88	51550.8
+Rotunna, Mario William	Financial Aid Officer II	1	51500
+Allen, Jefferson Louis	Recreational Sports Coord II	1	51500
+Riviere, Gabrielle Marie	Recreational Sports Coord II	1	51500
+Margolin, Davida L	Lecturer	0.75	51408
+Frost, Shaelyn Grace	Administrative Coordinator	1	51376
+Mongeon, Jacene K	Sr Human Resources Assistant	1	51230.4
+Handelsman, Mathilde Diavolana	Lecturer	0.88	51155.04
+Blair, David M	Lecturer	0.88	51154.4
+Elliott, Sarah Adele	Lecturer	0.88	51154.4
+Kolekar, Pramila	Lecturer	0.88	51154.4
+Lombard, Jacqueline	Lecturer	0.88	51154.4
+Mignanelli, Michael Anthony	Lecturer	0.88	51154.4
+Sbuttoni, Claudia	Lecturer	0.88	51154.4
+Trueworthy, Amy Elizabeth	Lecturer	0.88	51154.4
+VanderEls, Stephanie M	Educational Program Coord II	0.75	51085.77
+Wise, Lisa G	Lead Extension Program Mgr	0.8	51054.42
+Torno, Alexander Lionel	Admissions Officer II	1	51000
+Hand, Dylan J	Communications and Info Coord	1	51000
+Pershoguba, Sergii	Visiting Asst Professor	1	50960
+Perkins, Kelly L	Registered Nurse	0.75	50668.8
+Leyva, Priscilla C	Project Research Specialist II	0.75	50660.89
+Loomis, Nathan J	Marketing and Promotion Spec	1	50584.35
+Bailey, Laura Jo Ann	Sr Information Support Tech	1	50523.2
+St Ours, Andrea	Sr Human Resources Assistant	1	50502.4
+Voltz, Heidi	Sr Human Resources Assistant	1	50502.4
+McCurdy, Kathryn J	Clinical Asst Professor	0.75	50440
+Kust, Alexis A	Sr Information Support Tech	1	50128
+Goyette, Renee M	Research Technician III	1	50003.2
+Hatch, Joshua D	Academic Advisor	1	50000
+Stanley, Kelly Anne	Asst Mgr Dining	1	50000
+Allen, Jaclyn Danielle	Communication Info Spec II	1	50000
+Gore, Emily M	Communication Info Spec II	1	50000
+Gray, Evan Duane	Educational Program Coord II	1	50000
+Bu, Jingyi	Postdoctoral Research Assoc	1	50000
+Lee, Ben	Postdoctoral Research Assoc	1	50000
+Roy Chowdhury, Riyanka	Postdoctoral Research Assoc	1	50000
+Sanchez, Karina Alejandra	Postdoctoral Research Assoc	1	50000
+Kunin, Wesley Arthur	Recreational Sports Coord II	1	50000
+Crinigan, Gabriela	Research Associate II	1	50000
+Dixon, Kelly M	Research Associate II	1	50000
+Simon, Rebecca Elizabeth	Research Associate II	1	50000
+Blaha, Denise Marie	Communications and Info Coord	1	49920
+Snook, Casey Rose	Communications and Info Coord	1	49920
+Mathews Kalapurakal, Remya	Postdoctoral Research Assoc	1	49920
+Pal, Saikat	Postdoctoral Research Assoc	1	49920
+Reich, Hannah Gallogly	Postdoctoral Research Assoc	1	49920
+Scott, Amy Marie	Postdoctoral Research Assoc	1	49920
+Goodwin, Shawn	Procurement Business Partner	1	49920
+Tarleton, Sharon Ann	Program Admin Specialist	1	49920
+Cooper, Lee	Program Coordinator I	1	49920
+Goel, Shweta	Program Coordinator I	1	49920
+Rorke, Daniel	Sr Information Support Tech	1	49920
+Pease, Catherine Celia	Student Activities Officer	1	49920
+Wolczko, Christine	Administrative Coordinator	0.88	49868
+Pearson, Adam Benjamin	Educational Program Coord II	0.83	49760.98
+Burgess, Janice Renee	Administrative Coordinator	1	49753.6
+Lovejoy, Pamela Ann	Administrative Coordinator	1	49753.6
+Wong, Marissa A	Dispatcher II	1	49753.6
+Seiferth, Shannon E	Health Educator II	0.75	49444.3
+Apicelli, Adriane	Project Director I	0.8	48979.84
+Gueddou, Abdellatif	Postdoctoral Research Assoc	1	48880
+Porfido, Steven	Sr Building Finish Technician	1	48838.4
+Hammam, Laila	Health Educator II	0.75	48800.39
+Squibb, Kaitlyn E	Administrative Coordinator	0.94	48672
+Hawkins, Jill A	Business Mgr II	0.75	48672
+Brown, Brandon	Sr Information Support Tech	1	48588.8
+Thompson, Michael	Research Scientist I	1	48557.6
+Maxwell, Logan	Research Scientist I	1	48335.92
+Cox, Aneliya	Research Technician III	1	48297.6
+Tibbits, Morgan E	Sr Human Resources Assistant	1	48235.2
+Lowe, Julianne Erika	Program Coordinator I	1	48006.4
+Fearer, Carrie Jane	Postdoctoral Research Assoc	1	48000
+Verma, Jyoti	Postdoctoral Research Assoc	1	48000
+Spadoro, Chrisanne	Registered Nurse	0.75	47970
+Williams, Marrissa Jane	Program Coordinator I	1	47840
+Buccieri, Hannah E	Sr Human Resources Assistant	1	47590.4
+Wagner, Nathan Thomas	Sr Building Finish Technician	1	46820.8
+Bazylinski, Colette E	Administrative Coordinator	0.94	46312.5
+Carrico, Sarah L	Dispatcher II	1	45760
+Parks, Elizabeth R	Sr Human Resources Assistant	1	45760
+Alexander, Kimberly S	Lecturer	0.75	45197.22
+Kucera, Tess E	Health Educator II	0.75	45032
+Banister, Trevor	Research Laboratory Supervisor	1	45000
+Shannon, Gillian	Administrative Coordinator	1	44928
+Hanagan, Katie L	Asst Registrar	0.85	44863
+Lahiri, Smita	Lecturer	0.75	44255.76
+Daniel, Warren J	Business Analyst II	0.5	43448.5
+Myers, Mary Beth	Administrative Coordinator	0.75	42120
+Peterson, Amanda Wellman	Administrative Coordinator	0.75	40014
+Piazza Herd, Laura A	Communication Info Spec II	0.5	38392.17
+Fadden, Holly B	Administrative Coordinator	0.6	37415.04
