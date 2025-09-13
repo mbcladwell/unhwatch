@@ -164,7 +164,8 @@ Matthias	Matt
 Matthias	Thias
 Matthias	Thys
 Morris	Morey
-Micah	somes short for Michael
+Michael	Micah
+Michael	Mike
 Mitchell	Mitch
 Morris	Morry
 Morris	Morrie
@@ -454,6 +455,7 @@ Jeanette	Jean
 Jeanette	Jessie
 Jeanette	Nettie
 Jennifer	Jennie
+Jessica	Jess
 Joan	Nonie
 Joan	sometimes short form of Joanna / Johannah
 Johannah	Joan
@@ -590,3 +592,6 @@ Virginia	Jane
 Virginia	Jennie
 Virginia	Virgy
 Winifred	Winnie
+Steven	Steve
+Jaquelyn	Jackie
+

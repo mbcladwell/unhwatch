@@ -38,6 +38,35 @@ write.table(d4UNH, file = "d4UNH.txt", append = FALSE, quote = FALSE, sep = "\t"
             col.names = TRUE, fileEncoding = "")
 
 
+#################php makes d5UHN by adding dept
+
+file.prefix <- "demo"
+
+
+file.name<- paste( working.dir, file.prefix, ".csv", sep="")
+d <- read.table (file = file.name,  sep = ",", dec = ".",   header=TRUE, skip = 0, na.strings = "NA", strip.white = TRUE )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 d2 <- cbind( d[,1:2], rowMeans(d[,3:5]),  rowMeans(d[,6:8]),  rowMeans(d[,9:11]), rowMeans(d[,12:14]),  rowMeans(d[,15:17]))
 

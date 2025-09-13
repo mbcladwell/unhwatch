@@ -1,4 +1,3 @@
-Name	Job.Title	FTE	Annual.Base.Pay
 Dean, James Warren	President-UNH	1	504025.6
 Jones, Wayne E	Provost and VP Acad Aff-UNH	1	371416.5
 Gilson, Lucy Louise	Dean Paul College-UNH	1	370000
